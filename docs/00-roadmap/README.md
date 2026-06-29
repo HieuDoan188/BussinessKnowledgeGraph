@@ -164,9 +164,9 @@ Layer 6 (Reference):   22 → 23 → 24 → 25
 | Folder | Domain | Số module | Trạng thái |
 |--------|--------|:---------:|:----------:|
 | 01-foundation | Foundation | 6 | ✅ F01-F06 complete |
-| 02-business | Business Model | 3 | 🔲 |
-| 03-strategy | Strategy | 3 | 🔲 |
-| 04-marketing | Marketing | 5 | 🔲 |
+| 02-business | Business Model | 3 | ✅ B01-B03 complete |
+| 03-strategy | Strategy | 3 | ✅ S01-S03 complete |
+| 04-marketing | Marketing | 5 | ✅ MK01-MK05 complete |
 | 05-sales | Sales | 6 | 🔲 |
 | 06-finance | Finance | 6 | 🔲 |
 | 07-accounting | Accounting | 4 | 🔲 |

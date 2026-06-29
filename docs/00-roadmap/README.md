@@ -1,4 +1,7 @@
 # 00 — Roadmap & Learning Paths
+> Business Operating System Handbook — Hướng dẫn điều hướng toàn bộ tài liệu
+
+---
 
 ## Cấu trúc tổng thể
 
@@ -6,90 +9,162 @@
 docs/
 │
 ├── 00-roadmap/               ← Bạn đang ở đây
-├── 01-foundation/            ← Kiến thức nền (bắt buộc đọc trước)
+├── 01-foundation/            ← Kiến thức nền (đọc trước tất cả)
 │
-├── ── BUSINESS CORE ─────────────────────────────────────
+├── ── BUSINESS CORE ─────────────────────────────────────────
 ├── 02-business/              ← Business Model, Architecture
-├── 03-strategy/              ← Strategy, OKR, BSC
-├── 04-marketing/             ← Marketing → Product
-├── 05-sales/                 ← Sales → CRM Process
+├── 03-strategy/              ← Corporate Strategy, OKR, BSC
+├── 04-marketing/             ← Marketing, Branding, Growth
+├── 05-sales/                 ← Sales, B2B, B2C, Pricing
 │
-├── ── FINANCE & LAW ─────────────────────────────────────
-├── 06-finance/               ← Finance, Cash Flow, Valuation
-├── 07-accounting/            ← Accounting, IFRS/VAS
-├── 08-law/                   ← Toàn bộ pháp lý
-├── 09-tax/                   ← Thuế VN + Quốc tế
+├── ── FINANCE & LAW ─────────────────────────────────────────
+├── 06-finance/               ← Financial Management, Valuation
+├── 07-accounting/            ← Kế toán, IFRS/GAAP/VAS
+├── 08-law/                   ← Luật doanh nghiệp, lao động, IP
+├── 09-tax/                   ← Thuế VN: CIT, VAT, PIT
 │
-├── ── PEOPLE & PROCESS ──────────────────────────────────
-├── 10-hr/                    ← HR toàn diện
-├── 11-operations/            ← BPM, SOP, KPI, PM, BA
+├── ── PEOPLE & PROCESS ──────────────────────────────────────
+├── 10-hr/                    ← Tuyển dụng, lương thưởng, L&D
+├── 11-operations/            ← BPM, SOP, KPI, Project Mgmt
 │
-├── ── SUPPLY CHAIN & PRODUCTION ─────────────────────────
+├── ── SUPPLY CHAIN & PRODUCTION ─────────────────────────────
 ├── 12-logistics/             ← Logistics, SCM, XNK
-├── 13-manufacturing/         ← Manufacturing, Lean, Six Sigma
+├── 13-manufacturing/         ← Lean, Six Sigma, Tồn kho
 │
-├── ── TECHNOLOGY ────────────────────────────────────────
-├── 14-erp/                   ← ERP Systems
-├── 15-crm/                   ← CRM Systems
-├── 16-data/                  ← BI, DWH, EA
-├── 17-ai/                    ← AI, Digital Transformation
+├── ── TECHNOLOGY ────────────────────────────────────────────
+├── 14-erp/                   ← SAP, Odoo, Dynamics
+├── 15-crm/                   ← Salesforce, HubSpot, CDP
+├── 16-data/                  ← BI, DWH, Enterprise Architecture
+├── 17-ai/                    ← AI, RPA, LLM Agents
 │
-├── ── ADVANCED ──────────────────────────────────────────
-├── 18-consulting/            ← Consulting, Risk, Audit
-├── 19-governance/            ← Governance, Compliance, ESG
-├── 20-corporate-events/      ← M&A, IPO, Change, Innovation
-├── 21-business-types/        ← Startup, SME, Large, International
+├── ── ADVANCED ──────────────────────────────────────────────
+├── 18-consulting/            ← Phương pháp tư vấn, Rủi ro, Audit
+├── 19-governance/            ← Quản trị, Tuân thủ, ESG
+├── 20-corporate-events/      ← M&A, IPO, Change Management
+├── 21-business-types/        ← Startup, SME, Gia đình, Đa quốc gia
 │
-└── ── REFERENCE ─────────────────────────────────────────
+└── ── REFERENCE ─────────────────────────────────────────────
     ├── 22-case-studies/
-    ├── 23-templates/
-    ├── 24-prompts/
-    └── 25-glossary/
+    ├── 23-templates/         ← MODULE_TEMPLATE, SOP, RACI, Risk Register
+    ├── 24-prompts/           ← AI prompts theo role và module
+    └── 25-glossary/          ← Từ điển thuật ngữ toàn bộ
 ```
 
-## Learning Paths
+---
 
-### Path 1 — Người mới vào nghề (Junior)
-```
-01-foundation → 02-business → 03-strategy → 04-marketing → 05-sales
-→ 06-finance → 07-accounting → 10-hr → 11-operations
-```
+## 6 Learning Paths
 
-### Path 2 — Quản lý cấp trung (Manager)
-```
-01-foundation → 03-strategy → 11-operations → 06-finance
-→ 10-hr → 14-erp → 15-crm → 18-consulting
-```
+### Path 1 — Người mới vào nghề (Junior) · ~6 tháng
+> **Mục tiêu:** Hiểu toàn bộ hoạt động doanh nghiệp, biết dùng công cụ cơ bản
 
-### Path 3 — CEO / Founder
 ```
-02-business → 03-strategy → 06-finance → 08-law → 09-tax
-→ 19-governance → 20-corporate-events → 21-business-types
+Tháng 1-2: 01-foundation → 02-business → 03-strategy
+Tháng 3-4: 04-marketing → 05-sales → 06-finance
+Tháng 5-6: 07-accounting → 10-hr → 11-operations
 ```
 
-### Path 4 — Consultant
+**KPI hoàn thành:** Giải thích được Business Model Canvas, đọc được P&L cơ bản, viết được SOP đơn giản.
+
+---
+
+### Path 2 — Quản lý cấp trung (Manager) · ~4 tháng
+> **Mục tiêu:** Dẫn dắt team, quản lý ngân sách, cải thiện quy trình
+
 ```
-18-consulting → 02-business → 03-strategy → 11-operations
-→ 06-finance → 07-accounting → 19-governance → 20-corporate-events
+Tháng 1: 01-foundation → 03-strategy → 11-operations
+Tháng 2: 06-finance → 10-hr → 14-erp
+Tháng 3: 15-crm → 18-consulting
+Tháng 4: 19-governance → 16-data
 ```
 
-### Path 5 — Digital / ERP Implementer
+**KPI hoàn thành:** Thiết kế được KPI hierarchy, xây dựng được budget, dẫn dắt được Kaizen event.
+
+---
+
+### Path 3 — CEO / Founder · ~3 tháng
+> **Mục tiêu:** Ra quyết định chiến lược, quản trị tài chính, giảm rủi ro pháp lý
+
 ```
-01-foundation → 11-operations → 13-manufacturing → 12-logistics
-→ 14-erp → 15-crm → 16-data → 17-ai
+Tháng 1: 02-business → 03-strategy → 06-finance
+Tháng 2: 08-law → 09-tax → 19-governance
+Tháng 3: 20-corporate-events → 21-business-types → 17-ai
 ```
 
-### Path 6 — AI Business Agent (Knowledge Base)
+**KPI hoàn thành:** Xây dựng được 3-year financial model, hiểu được cơ cấu quản trị, đánh giá được M&A opportunity.
+
+---
+
+### Path 4 — Business Consultant · ~4 tháng
+> **Mục tiêu:** Chẩn đoán doanh nghiệp, thiết kế giải pháp, quản lý engagement
+
 ```
-Toàn bộ docs/ theo thứ tự số
+Tháng 1: 18-consulting → 02-business → 03-strategy
+Tháng 2: 11-operations → 06-finance → 07-accounting
+Tháng 3: 19-governance → 20-corporate-events
+Tháng 4: Tất cả 21 domain — đọc nhanh overview
 ```
 
-## Tổng quan modules
+**KPI hoàn thành:** Thực hiện được Business Health Check, viết được consulting report theo Pyramid Principle, điều phối được strategy workshop.
 
-| Folder | Domain | Modules | Status |
-|--------|--------|---------|--------|
-| 01-foundation | Foundation | 6 | 🔲 |
-| 02-business | Business | 3 | 🔲 |
+---
+
+### Path 5 — ERP / Digital Implementer · ~4 tháng
+> **Mục tiêu:** Triển khai hệ thống ERP/CRM, số hóa quy trình
+
+```
+Tháng 1: 01-foundation → 11-operations → 07-accounting
+Tháng 2: 13-manufacturing → 12-logistics → 14-erp
+Tháng 3: 15-crm → 16-data → 17-ai
+Tháng 4: 18-consulting (change management) → 19-governance
+```
+
+**KPI hoàn thành:** Thiết kế được process map cho ERP, viết được user requirements, quản lý được ERP project.
+
+---
+
+### Path 6 — AI Business Agent (Full Knowledge Base)
+> **Mục tiêu:** Nạp toàn bộ knowledge graph theo thứ tự phụ thuộc
+
+```
+Layer 1 (Foundation):  01 → 02 → 03 → 06 → 07
+Layer 2 (Operations):  04 → 05 → 10 → 11 → 12 → 13
+Layer 3 (Technology):  14 → 15 → 16 → 17
+Layer 4 (Compliance):  08 → 09 → 19
+Layer 5 (Advanced):    18 → 20 → 21
+Layer 6 (Reference):   22 → 23 → 24 → 25
+```
+
+---
+
+## Bản đồ phụ thuộc module
+
+```
+01-foundation ──────────────────────────────────────────┐
+                                                         │
+   ┌─── 02-business ── 03-strategy ── 20-corporate-events│
+   │                                                     │
+   ├─── 04-marketing ── 05-sales ── 15-crm ─────────────┤
+   │                                                     │
+   ├─── 06-finance ── 07-accounting ── 09-tax ───────────┤
+   │         └── 08-law ── 19-governance                 │
+   │                                                     │
+   ├─── 10-hr ── 11-operations ── 12-logistics ──────────┤
+   │                   └── 13-manufacturing              │
+   │                                                     │
+   └─── 14-erp ── 15-crm ── 16-data ── 17-ai ───────────┤
+                                                         │
+   18-consulting (dùng tất cả domains ở trên) ───────────┘
+   21-business-types (overlay lên tất cả) ───────────────┘
+```
+
+---
+
+## Trạng thái module
+
+| Folder | Domain | Số module | Trạng thái |
+|--------|--------|:---------:|:----------:|
+| 01-foundation | Foundation | 6 | ✅ F01-F06 complete |
+| 02-business | Business Model | 3 | 🔲 |
 | 03-strategy | Strategy | 3 | 🔲 |
 | 04-marketing | Marketing | 5 | 🔲 |
 | 05-sales | Sales | 6 | 🔲 |
@@ -102,11 +177,23 @@ Toàn bộ docs/ theo thứ tự số
 | 12-logistics | Logistics | 4 | 🔲 |
 | 13-manufacturing | Manufacturing | 6 | 🔲 |
 | 14-erp | ERP | 5 | 🔲 |
-| 15-crm | CRM System | 4 | 🔲 |
-| 16-data | Data | 4 | 🔲 |
+| 15-crm | CRM | 4 | 🔲 |
+| 16-data | Data & BI | 4 | 🔲 |
 | 17-ai | AI & Digital | 5 | 🔲 |
 | 18-consulting | Consulting | 6 | 🔲 |
 | 19-governance | Governance | 4 | 🔲 |
-| 20-corporate-events | Corporate Events | 4 | 🔲 |
+| 20-corporate-events | Corp Events | 4 | 🔲 |
 | 21-business-types | Business Types | 5 | 🔲 |
 | **TOTAL** | | **101** | |
+
+---
+
+## Cách dùng tài liệu
+
+| Bạn là | Đọc gì trước | Công cụ hỗ trợ |
+|--------|-------------|----------------|
+| Người học | README từng module theo path | Flashcards, FAQ |
+| Consultant | Cheat Sheet + Checklist | 24-prompts by-role |
+| CEO / Founder | Business Context + KPIs | 24-prompts CEO |
+| ERP Implementer | ERP Mapping + SOP | 23-templates |
+| AI Agent | JSON Metadata + Definitions | 25-glossary |

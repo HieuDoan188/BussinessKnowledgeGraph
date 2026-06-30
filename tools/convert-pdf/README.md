@@ -20,13 +20,13 @@ node convert.mjs --domain 06-finance
 node convert.mjs --domain 04-marketing
 
 # Convert 1 file duy nhất
-node convert.mjs --file docs/03-strategy/S01-corporate-strategy/README.md
+node tools/convert.mjs --file docs/03-strategy/S01-corporate-strategy/README.md
 
 # Gộp toàn bộ thành 1 PDF lớn
-node convert.mjs --merge
+node tools/convert-pdf/convert.mjs --merge
 
 # Gộp 1 domain thành 1 PDF
-node convert.mjs --domain 12-logistics --merge
+node tools/convert.mjs --domain 12-logistics --merge
 ```
 
 ## Output

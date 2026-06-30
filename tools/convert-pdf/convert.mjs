@@ -145,38 +145,49 @@ function printSummary(results) {
   log('📁', `Output: ${relative(ROOT, OUTPUT).replace(/\\/g, '/')}`, 'cyan');
 }
 
-/* ── Merge mode: concatenate markdown then convert ─────────── */
+/* ── Merge mode: convert each file → merge PDFs with pdf-lib ── */
 async function mergeAndConvert(files, outputName) {
-  const { writeFileSync, unlinkSync } = await import('fs');
+  const { PDFDocument } = await import('pdf-lib');
+  const { writeFileSync, readFileSync: rfs } = await import('fs');
   mkdirSync(OUTPUT, { recursive: true });
 
-  // Combine all markdown with page break separators
-  const combined = files.sort().map(f => {
-    const content = readFileSync(f, 'utf8')
-      .replace(/^---[\s\S]+?---\n/, '')   // strip YAML frontmatter
-      .trim();
-    return content;
-  }).join('\n\n<div class="page-break"></div>\n\n');
+  const sorted = files.sort();
+  log('⟳', `Converting ${sorted.length} files before merging…`, 'cyan');
 
-  const tmpFile = join(__dir, '_merged_tmp.md');
-  writeFileSync(tmpFile, combined, 'utf8');
+  // Step 1: convert each file to a temp PDF buffer
+  const pdfBuffers = [];
+  let ok = 0, fail = 0;
+  for (const f of sorted) {
+    const label = relative(ROOT, f).replace(/\\/g, '/');
+    try {
+      log(' ⟳', label, 'cyan');
+      const result = await mdToPdf({ path: f }, pdfConfig);
+      pdfBuffers.push(result.content);
+      ok++;
+      log(' ✔', label, 'green');
+    } catch (err) {
+      log(' ✘', `${label} — ${err.message}`, 'red');
+      fail++;
+    }
+  }
+
+  // Step 2: merge all PDF buffers into one document
+  log('⟳', `Merging ${pdfBuffers.length} PDFs → ${outputName}`, 'cyan');
+  const merged = await PDFDocument.create();
+  for (const buf of pdfBuffers) {
+    const src = await PDFDocument.load(buf);
+    const pages = await merged.copyPages(src, src.getPageIndices());
+    pages.forEach(p => merged.addPage(p));
+  }
 
   const dest = join(OUTPUT, outputName);
-  log('⟳', `Merging ${files.length} files → ${outputName}`, 'cyan');
+  const bytes = await merged.save();
+  writeFileSync(dest, bytes);
 
-  try {
-    const result = await mdToPdf({ path: tmpFile }, {
-      ...pdfConfig,
-      dest,
-    });
-    if (!result?.filename) {
-      const { writeFileSync: wf } = await import('fs');
-      wf(dest, result.content);
-    }
-    log('✔', `${relative(ROOT, dest).replace(/\\/g, '/')}`, 'green');
-  } finally {
-    try { unlinkSync(tmpFile); } catch {}
-  }
+  console.log('\n' + '─'.repeat(60));
+  log('📊', `Done — ${ok} converted, ${fail} failed`, fail > 0 ? 'yellow' : 'green');
+  log('✔', `${relative(ROOT, dest).replace(/\\/g, '/')} (${(bytes.length / 1024 / 1024).toFixed(1)} MB)`, 'green');
+  log('📁', `Output: ${relative(ROOT, OUTPUT).replace(/\\/g, '/')}`, 'cyan');
 }
 
 /* ── Entry point ───────────────────────────────────────────── */

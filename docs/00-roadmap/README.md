@@ -161,30 +161,30 @@ Layer 6 (Reference):   22 → 23 → 24 → 25
 
 ## Trạng thái module
 
-| Folder | Domain | Số module | Trạng thái |
-|--------|--------|:---------:|:----------:|
-| 01-foundation | Foundation | 6 | ✅ F01-F06 complete |
-| 02-business | Business Model | 3 | ✅ B01-B03 complete |
-| 03-strategy | Strategy | 3 | ✅ S01-S03 complete |
-| 04-marketing | Marketing | 5 | ✅ MK01-MK05 complete |
-| 05-sales | Sales | 6 | 🔲 |
-| 06-finance | Finance | 6 | 🔲 |
-| 07-accounting | Accounting | 4 | 🔲 |
-| 08-law | Law | 6 | 🔲 |
-| 09-tax | Tax | 5 | 🔲 |
-| 10-hr | HR | 5 | 🔲 |
-| 11-operations | Operations | 5 | 🔲 |
-| 12-logistics | Logistics | 4 | 🔲 |
-| 13-manufacturing | Manufacturing | 6 | 🔲 |
-| 14-erp | ERP | 5 | 🔲 |
-| 15-crm | CRM | 4 | 🔲 |
-| 16-data | Data & BI | 4 | 🔲 |
-| 17-ai | AI & Digital | 5 | 🔲 |
-| 18-consulting | Consulting | 6 | 🔲 |
-| 19-governance | Governance | 4 | 🔲 |
-| 20-corporate-events | Corp Events | 4 | 🔲 |
-| 21-business-types | Business Types | 5 | 🔲 |
-| **TOTAL** | | **101** | |
+| Folder | Domain | Modules | Trạng thái | Ghi chú |
+|--------|--------|:-------:|:----------:|---------|
+| 01-foundation | Foundation | 6 | ✅ complete | F01–F06 |
+| 02-business | Business Model | 3 | ✅ complete | B01–B03 |
+| 03-strategy | Strategy | 3 | ✅ complete | S01–S03 |
+| 04-marketing | Marketing | 5 | ✅ complete | MK01–MK05 |
+| 05-sales | Sales | 6 | 🔲 pending | |
+| 06-finance | Finance | 6 | ✅ complete | FI01–FI06 |
+| 07-accounting | Accounting | 4 | ✅ complete | AC01–AC04 |
+| 08-law | Law | 6 | 🔲 pending | |
+| 09-tax | Tax | 5 | ✅ complete | TX01–TX05 |
+| 10-hr | HR | 5 | 🔲 pending | |
+| 11-operations | Operations | 5 | ✅ complete | OP01–OP05 |
+| 12-logistics | Logistics | 4 | ✅ complete | LG01–LG04 |
+| 13-manufacturing | Manufacturing | 6 | ✅ complete | MF01–MF06 |
+| 14-erp | ERP | 5 | ✅ complete| |
+| 15-crm | CRM | 4 | ✅ complete | |
+| 16-data | Data & BI | 4 | ✅ complete | |
+| 17-ai | AI & Digital | 5 | ✅ complete | |
+| 18-consulting | Consulting | 6 | 🔲 pending | |
+| 19-governance | Governance | 4 | 🔲 pending | |
+| 20-corporate-events | Corp Events | 4 | 🔲 pending | |
+| 21-business-types | Business Types | 5 | 🔲 pending | |
+| **TOTAL** | | **101** | **55 complete** | |
 
 ---
 

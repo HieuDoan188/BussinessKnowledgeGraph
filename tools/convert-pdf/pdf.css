@@ -1,0 +1,288 @@
+/* Business OS Handbook — PDF Stylesheet */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  --primary: #1a1a2e;
+  --accent: #0f4c75;
+  --accent-light: #1b6ca8;
+  --code-bg: #1e1e2e;
+  --border: #e2e8f0;
+  --text: #1a202c;
+  --text-light: #4a5568;
+  --yellow: #f6ad55;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 11pt;
+  line-height: 1.7;
+  color: var(--text);
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* ── Page layout ── */
+@page {
+  size: A4;
+  margin: 20mm 18mm 20mm 18mm;
+
+  @bottom-center {
+    content: "Business Operating System Handbook  ·  " string(module-title);
+    font-size: 8pt;
+    color: #94a3b8;
+  }
+
+  @bottom-right {
+    content: counter(page);
+    font-size: 8pt;
+    color: #94a3b8;
+  }
+}
+
+@page :first {
+  @bottom-center { content: none; }
+  @bottom-right  { content: none; }
+}
+
+/* ── Module title for running footer ── */
+h1 {
+  string-set: module-title content();
+}
+
+/* ── Headings ── */
+h1 {
+  font-size: 22pt;
+  font-weight: 700;
+  color: var(--primary);
+  border-bottom: 3px solid var(--accent);
+  padding-bottom: 10px;
+  margin-top: 0;
+  margin-bottom: 6px;
+  page-break-after: avoid;
+}
+
+h1 + blockquote {
+  margin-top: 4px;
+  color: var(--text-light);
+  font-style: italic;
+  font-size: 10.5pt;
+  border-left: 3px solid var(--accent-light);
+  padding: 6px 12px;
+  margin-bottom: 24px;
+}
+
+h2 {
+  font-size: 14pt;
+  font-weight: 600;
+  color: var(--accent);
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 4px;
+  margin-top: 28px;
+  margin-bottom: 10px;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-size: 12pt;
+  font-weight: 600;
+  color: var(--primary);
+  margin-top: 18px;
+  margin-bottom: 6px;
+  page-break-after: avoid;
+}
+
+h4 {
+  font-size: 11pt;
+  font-weight: 600;
+  color: var(--accent-light);
+  margin-top: 14px;
+  margin-bottom: 4px;
+  page-break-after: avoid;
+}
+
+/* ── Frontmatter / YAML block ── */
+.frontmatter,
+pre.frontmatter {
+  display: none;
+}
+
+/* ── Paragraphs ── */
+p {
+  margin: 0 0 10px 0;
+}
+
+/* ── Code blocks ── */
+pre {
+  background: #f8fafc;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 4px;
+  padding: 12px 14px;
+  font-family: 'JetBrains Mono', 'Consolas', 'Courier New', monospace;
+  font-size: 8.5pt;
+  line-height: 1.5;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-break: break-word;
+  page-break-inside: avoid;
+  margin: 10px 0 14px 0;
+}
+
+code {
+  font-family: 'JetBrains Mono', 'Consolas', 'Courier New', monospace;
+  font-size: 8.5pt;
+  background: #f1f5f9;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 1px 5px;
+}
+
+pre code {
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: inherit;
+}
+
+/* ── Tables ── */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 12px 0 16px 0;
+  font-size: 9.5pt;
+  page-break-inside: avoid;
+}
+
+thead {
+  background: var(--accent);
+  color: white;
+}
+
+thead th {
+  padding: 7px 10px;
+  text-align: left;
+  font-weight: 600;
+}
+
+tbody tr:nth-child(even) {
+  background: #f8fafc;
+}
+
+tbody tr:hover {
+  background: #eff6ff;
+}
+
+td, th {
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  vertical-align: top;
+}
+
+/* ── Blockquotes ── */
+blockquote {
+  border-left: 3px solid var(--accent-light);
+  margin: 12px 0;
+  padding: 8px 14px;
+  color: var(--text-light);
+  background: #f0f7ff;
+  border-radius: 0 4px 4px 0;
+}
+
+blockquote p { margin: 0; }
+
+/* ── Lists ── */
+ul, ol {
+  padding-left: 22px;
+  margin: 6px 0 10px 0;
+}
+
+li {
+  margin-bottom: 3px;
+}
+
+li > ul, li > ol {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+/* ── Checklist ── */
+input[type="checkbox"] {
+  margin-right: 6px;
+}
+
+/* ── Horizontal rule ── */
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 20px 0;
+}
+
+/* ── Strong / em ── */
+strong { color: var(--primary); }
+
+/* ── Links ── */
+a {
+  color: var(--accent-light);
+  text-decoration: none;
+}
+
+/* ── Mermaid diagrams (rendered as images by md-to-pdf) ── */
+.mermaid {
+  text-align: center;
+  margin: 14px 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+}
+
+/* ── Section headings style ── */
+h2:before {
+  content: "§ ";
+  color: #94a3b8;
+  font-weight: 400;
+}
+
+/* ── Page breaks ── */
+.page-break { page-break-after: always; }
+
+h2 { page-break-before: auto; }
+
+/* ── JSON code highlight override ── */
+.language-json pre,
+pre.language-json {
+  background: #0d1117;
+  color: #e6edf3;
+  border-left-color: var(--yellow);
+}
+
+/* ── Table of contents (if generated) ── */
+nav#TOC {
+  background: #f8fafc;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 16px 20px;
+  margin-bottom: 24px;
+}
+
+nav#TOC ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+nav#TOC ul ul {
+  padding-left: 16px;
+}
+
+nav#TOC a {
+  color: var(--accent-light);
+}

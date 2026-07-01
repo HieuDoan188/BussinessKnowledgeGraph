@@ -98,84 +98,234 @@ Xem template đầy đủ tại: [docs/23-templates/module-template/MODULE_TEMPL
 
 ---
 
-## Công cụ đi kèm
+## Hướng dẫn sử dụng
 
-### PDF Converter
+### Quy trình tổng thể
 
-Chuyển toàn bộ (hoặc một phần) handbook thành file PDF — chạy từ project root:
+```
+1. Đọc nội dung          2. Build graph           3. Dùng công cụ
+   docs/**/*.md    →→→    build-graph.mjs   →→→   query / PDF / AI
+   (101 modules)          (chạy lại khi            (tra cứu, xuất,
+                           có nội dung mới)          hỏi tự nhiên)
+```
+
+Bước 2 chỉ cần chạy lại khi thêm hoặc sửa module. Bước 3 không cần internet nếu dùng Ollama.
+
+---
+
+### Cài đặt
+
+**Yêu cầu:** Node.js ≥ 18
 
 ```bash
-# Cài đặt (chạy 1 lần)
-cd tools/convert-pdf && npm install
+# 1. Cài dependencies cho trợ lý AI
+npm install
 
-# Convert một domain
+# 2. Cài dependencies cho PDF converter
+cd tools/convert-pdf && npm install && cd ../..
+
+# 3. Cài Chrome cho PDF renderer (chạy 1 lần)
+cd tools/convert-pdf && npx puppeteer browsers install chrome && cd ../..
+
+# 4. Build knowledge graph lần đầu
+node tools/build-graph.mjs
+```
+
+---
+
+### 1. Đọc nội dung
+
+Mỗi domain là một folder, mỗi module là một `README.md` với 40 sections + diagrams + flashcards + JSON metadata.
+
+```
+docs/
+├── 00-roadmap/        ← Bắt đầu tại đây — learning paths theo role
+├── 01-foundation/     ← F01–F06: Đọc trước tất cả
+├── 03-strategy/       ← S01–S03: Strategy, OKR, BSC
+├── 06-finance/        ← FI01–FI06: Finance, Valuation
+├── 08-law/            ← LW01–LW06: Pháp lý VN toàn diện
+...
+```
+
+→ [Xem lộ trình học theo role](docs/00-roadmap/README.md)
+
+---
+
+### 2. PDF Converter
+
+Xuất một domain hoặc toàn bộ handbook thành PDF — chạy từ project root:
+
+```bash
+# Convert toàn bộ → output/pdf/<domain>/<module>.pdf
+node tools/convert-pdf/convert.mjs
+
+# Convert một domain (nhiều file PDF)
 node tools/convert-pdf/convert.mjs --domain 06-finance
+node tools/convert-pdf/convert.mjs --domain 12-logistics
 
-# Gộp một domain thành 1 PDF
-node tools/convert-pdf/convert.mjs --domain 12-logistics --merge
+# Gộp một domain thành 1 PDF duy nhất
+node tools/convert-pdf/convert.mjs --domain 06-finance --merge
 
-# Gộp toàn bộ handbook thành 1 PDF lớn
+# Gộp toàn bộ handbook thành 1 PDF (~500+ trang)
 node tools/convert-pdf/convert.mjs --merge
 
 # Một file cụ thể
 node tools/convert-pdf/convert.mjs --file docs/03-strategy/S01-corporate-strategy/README.md
 ```
 
-Output ra `output/pdf/`.
+Output ra `output/pdf/`. Format A4, có header/footer, bảng có màu, code monospace.
 
 ---
 
-### Knowledge Graph
+### 3. Knowledge Graph
 
-Mỗi module được liên kết với nhau qua 287 nodes và 1.741 edges thuộc 8 loại quan hệ:
-`prerequisite_of` · `relates_to` · `implements` · `regulated_by` · `used_in` · `defines` · `exemplified_by` · `supersedes`
+287 nodes · 1.741 edges · 8 loại quan hệ:
 
-**Build graph** (chạy lại mỗi khi thêm/sửa content):
+```
+prerequisite_of  relates_to  implements  regulated_by
+used_in  defines  exemplified_by  supersedes
+```
 
+**Rebuild sau khi sửa content:**
 ```bash
 node tools/build-graph.mjs
 ```
 
-**Query graph:**
+**Query bằng CLI:**
 
 ```bash
-# Xem toàn bộ context một module
+# Module — xem prereqs, related, frameworks, luật, case studies
 node tools/query-graph.mjs --module S01
 node tools/query-graph.mjs --module LG02
 
-# Tìm luật → module nào bị ảnh hưởng (dùng khi pháp luật thay đổi)
+# Luật — module nào bị ảnh hưởng (dùng khi pháp luật thay đổi)
 node tools/query-graph.mjs --law "BLLĐ"
 node tools/query-graph.mjs --law "Luật Đất Đai"
+node tools/query-graph.mjs --law "NĐ 13"
+node tools/query-graph.mjs --law "45/2019"        # tìm được qua số hiệu
 
-# Framework này lan rộng đến bao nhiêu module?
+# Framework/Standard/Company — dùng ở những module nào
 node tools/query-graph.mjs --entity FW-SCOR
 node tools/query-graph.mjs --entity FW-OKR
+node tools/query-graph.mjs --entity "Vinamilk"
 
-# Đường học ngắn nhất giữa 2 module
+# Learning path — đường học ngắn nhất giữa 2 module
 node tools/query-graph.mjs --path F01 MF05
 node tools/query-graph.mjs --path B01 CRM04
+node tools/query-graph.mjs --path AC01 TX03
 
-# Thống kê toàn graph
+# Tổng quan
 node tools/query-graph.mjs --stats
 ```
 
+**Tìm kiếm hỗ trợ aliases** — không cần biết tên chính xác:
+
+| Bạn gõ | Tìm được |
+|---|---|
+| `"NĐ 13"` | Nghị Định 13/2023/NĐ-CP |
+| `"PDPA"` | Nghị Định 13/2023/NĐ-CP |
+| `"45/2019"` | Bộ Luật Lao Động 2019 |
+| `"BLLĐ"` | Bộ Luật Lao Động 2019 |
+| `"Vinamilk"` | Co-VINAMILK |
+
 **Ứng dụng thực tế:**
 
-| Tình huống | Lệnh |
+| Tình huống | Làm gì |
 |---|---|
-| Luật mới ban hành — cần biết update module nào | `--law "tên luật"` |
-| Chuẩn bị tài liệu cho khách hàng 1 domain | `--domain ... --merge` |
-| Thiết kế learning path tùy chỉnh | `--path [from] [to]` |
-| AI agent cần load knowledge base có cấu trúc | `graph/nodes.json` + `graph/edges.json` |
-| Kiểm tra framework X có dạy ở những đâu | `--entity FW-XXX` |
+| Luật mới ban hành → cần update gì | `--law "tên luật"` |
+| Chuẩn bị pitch về SCM | `--module LG02` → prereqs + frameworks + laws |
+| Thiết kế onboarding 3 tháng | `--path F01 FI06` → learning path |
+| Gửi tài liệu domain cho khách | `--domain 06-finance --merge` |
+| Framework X dạy ở những đâu | `--entity FW-BSC` |
+| AI agent cần structured knowledge base | Feed `graph/nodes.json` + `graph/edges.json` |
 
-**Ontology registry** (`schema/entities/`):
+**Mở rộng ontology** — thêm entity mới vào registry rồi rebuild:
 
-| File | Nội dung |
-|---|---|
-| `frameworks.json` | 45 frameworks: Porter, SCOR, MEDDIC, OKR, Incoterms... |
-| `laws.json` | 27 luật VN + quốc tế: BLLĐ, Luật DN, NĐ 13, EVFTA... |
-| `standards.json` | 18 chuẩn: IFRS, ISO 9001, VAS, GRI, VNACCS... |
-| `companies.json` | 32 công ty case study: Vinamilk → SAP → McKinsey |
+```bash
+# Xem entities "adhoc" chưa có trong registry
+node -e "
+const n = JSON.parse(require('fs').readFileSync('graph/nodes.json'));
+n.filter(x => x.properties?.adhoc).forEach(x => console.log(x.label));
+"
 
-Khi thêm entity mới → cập nhật file tương ứng → chạy lại `build-graph.mjs`.
+# Sau khi thêm vào schema/entities/*.json
+node tools/build-graph.mjs
+```
+
+---
+
+### 4. Trợ lý AI
+
+Hỏi handbook bằng câu tiếng Việt tự nhiên. Tool tự chọn backend:
+
+```
+Câu hỏi → LLM trích xuất intent → query graph → LLM tổng hợp → Trả lời
+```
+
+**Cấu hình backend — chọn 1:**
+
+| | Claude API | Ollama (local) |
+|---|---|---|
+| Chất lượng | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+| Chi phí | Trả phí | Miễn phí |
+| Cài đặt | Tạo `.env` | `winget` + `ollama pull` |
+| Internet | Cần | Không cần |
+
+**Option A — Claude API:**
+```bash
+# Tạo file .env ở project root
+ANTHROPIC_API_KEY=sk-ant-...
+```
+Lấy key tại [console.anthropic.com](https://console.anthropic.com) → API Keys.
+
+**Option B — Ollama (local, miễn phí):**
+```powershell
+winget install Ollama.Ollama          # cài Ollama
+ollama pull qwen2.5:0.5b              # model nhẹ nhất ~400MB, chạy CPU
+# ollama pull llama3.2:1b            # mạnh hơn ~1.3GB
+# ollama pull gemma3:1b              # mạnh hơn ~800MB
+```
+Ollama tự chạy ở background — không cần config thêm.
+
+**Chạy:**
+```bash
+# Một câu hỏi
+node tools/ask.mjs "Luật Đất Đai 2024 thay đổi thì cần update gì?"
+node tools/ask.mjs "Tôi muốn học SCM, nên bắt đầu từ đâu?"
+node tools/ask.mjs "SCOR được dạy ở bao nhiêu module?"
+node tools/ask.mjs "Thiết kế learning path từ F01 đến MF05"
+
+# Chat mode
+node tools/ask.mjs
+
+# Đổi model local
+LOCAL_MODEL=llama3.2:1b node tools/ask.mjs "..."
+```
+
+Tự động ưu tiên Claude API nếu có key, fallback Ollama nếu không.
+
+---
+
+### Tóm tắt các file tools
+
+```
+tools/
+├── build-graph.mjs          ← Scan 101 README → sinh graph/
+├── query-graph.mjs          ← CLI query graph (--module/--law/--entity/--path)
+├── ask.mjs                  ← Natural language interface (Claude / Ollama)
+└── convert-pdf/
+    └── convert.mjs          ← Markdown → PDF (--domain/--merge/--file)
+
+schema/
+├── ontology.json            ← Định nghĩa entity types + relation types
+└── entities/
+    ├── frameworks.json      ← 45 frameworks
+    ├── laws.json            ← 27 luật VN + quốc tế
+    ├── standards.json       ← 18 chuẩn kế toán/chất lượng
+    └── companies.json       ← 32 công ty case study
+
+graph/                       ← Generated — không edit trực tiếp
+├── nodes.json               ← 287 nodes
+├── edges.json               ← 1.741 edges
+└── stats.json               ← Summary
+```

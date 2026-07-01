@@ -11,7 +11,13 @@
       "Bash(node tools/build-graph.mjs)",
       "Bash(node tools/query-graph.mjs --law \"NĐ 13\")",
       "Bash(node tools/query-graph.mjs --law \"PDPA\")",
-      "Bash(node tools/query-graph.mjs --law \"45/2019\")"
+      "Bash(node tools/query-graph.mjs --law \"45/2019\")",
+      "Bash(npm install *)",
+      "Bash(node tools/ask.mjs \"Luật Đất Đai 2024 thay đổi thì cần update những module nào?\")",
+      "PowerShell($env:ANTHROPIC_API_KEY | Select-String \"sk-\" | ForEach-Object { $_.Line.Substring\\(0,15\\) + \"...\" })",
+      "Bash(node tools/ask.mjs)",
+      "Bash(node tools/ask.mjs \"Luật Đất Đai 2024 thay đổi thì cần update gì?\")",
+      "Bash(node tools/ask.mjs \"SCOR được dạy ở bao nhiêu module?\")"
     ],
     "additionalDirectories": [
       "e:\\prj\\BussinessKnowledgeGraph\\schema"

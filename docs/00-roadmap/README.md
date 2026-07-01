@@ -167,12 +167,12 @@ Layer 6 (Reference):   22 → 23 → 24 → 25
 | 02-business | Business Model | 3 | ✅ complete | B01–B03 |
 | 03-strategy | Strategy | 3 | ✅ complete | S01–S03 |
 | 04-marketing | Marketing | 5 | ✅ complete | MK01–MK05 |
-| 05-sales | Sales | 6 | 🔲 pending | |
+| 05-sales | Sales | 6 | ✅ complete | SA01–SA06 |
 | 06-finance | Finance | 6 | ✅ complete | FI01–FI06 |
 | 07-accounting | Accounting | 4 | ✅ complete | AC01–AC04 |
-| 08-law | Law | 6 | 🔲 pending | |
+| 08-law | Law | 6 | ✅ complete | LW01–LW06 |
 | 09-tax | Tax | 5 | ✅ complete | TX01–TX05 |
-| 10-hr | HR | 5 | 🔲 pending | |
+| 10-hr | HR | 5 | ✅ complete | HR01–HR05 |
 | 11-operations | Operations | 5 | ✅ complete | OP01–OP05 |
 | 12-logistics | Logistics | 4 | ✅ complete | LG01–LG04 |
 | 13-manufacturing | Manufacturing | 6 | ✅ complete | MF01–MF06 |
@@ -184,7 +184,7 @@ Layer 6 (Reference):   22 → 23 → 24 → 25
 | 19-governance | Governance | 4 | 🔲 pending | |
 | 20-corporate-events | Corp Events | 4 | 🔲 pending | |
 | 21-business-types | Business Types | 5 | 🔲 pending | |
-| **TOTAL** | | **101** | **55 complete** | |
+| **TOTAL** | | **101** | **82 complete** | |
 
 ---
 

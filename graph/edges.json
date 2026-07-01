@@ -4650,6 +4650,506 @@
     "relation": "exemplified_by"
   },
   {
+    "from": "FW-OKR",
+    "to": "MOD-HR01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-HR01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-HR01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-HR01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-HR01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-HR01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-HR01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-HR01",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR01",
+    "to": "LAW-BHXH-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR01",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR01",
+    "to": "LAW-NĐ145-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR01",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR01",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR01",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR01",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR01",
+    "to": "CO-APPLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR01",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR01",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-HR02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "LAW-BHXH-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "LAW-THUETNCN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "LAW-RCEP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "CO-DELOITTE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-OKR",
+    "to": "MOD-HR03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-HR03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-HR03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-HR03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-HR03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-HR03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-HR03",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR03",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR03",
+    "to": "LAW-RCEP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR03",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR03",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR03",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR03",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR03",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR03",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR03",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR03",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-HR04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SPIN",
+    "to": "MOD-HR04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-HR04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-HR04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-HR04",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "LAW-NĐ145-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR04",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-7S",
+    "to": "MOD-HR05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-OKR",
+    "to": "MOD-HR05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-HR05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-HR05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SPIN",
+    "to": "MOD-HR05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-HR05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-HR05",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "LAW-DN-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "CO-MOMO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-HR05",
+    "to": "CO-MCKINSEYCO",
+    "relation": "exemplified_by"
+  },
+  {
     "from": "MOD-F01",
     "to": "MOD-OP01",
     "relation": "prerequisite_of"

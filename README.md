@@ -196,8 +196,8 @@ docs/**/*.md  ──build──▶  graph/nodes.json + edges.json
 | 21 | Business Types | BT01–BT05 | 🔄 |
 | 22 | Case Studies | — | 🔄 |
 | 23 | Templates | — | ✅ |
-| 24 | AI Prompts | — | 🔄 |
-| 25 | Glossary | — | 🔄 |
+| 24 | AI Prompts | — | ✅ |
+| 25 | Glossary | — | ✅ |
 
 ✅ Complete · 🔄 In Progress
 

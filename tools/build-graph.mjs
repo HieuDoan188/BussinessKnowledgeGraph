@@ -146,7 +146,7 @@ async function build() {
       id:         e.id,
       type:       e.type,
       label:      e.label,
-      properties: { ...e, id: undefined, type: undefined, label: undefined, aliases: undefined },
+      properties: { ...e, id: undefined, type: undefined, label: undefined },
     });
   }
 

@@ -8,6 +8,12 @@
       "year": 1979,
       "domain_tags": [
         "strategy"
+      ],
+      "aliases": [
+        "Porter Five Forces",
+        "Porter 5 Forces",
+        "Five Forces",
+        "5 Forces Porter"
       ]
     }
   },
@@ -18,6 +24,11 @@
     "properties": {
       "domain_tags": [
         "strategy"
+      ],
+      "aliases": [
+        "PESTLE",
+        "PESTEL",
+        "PEST Analysis"
       ]
     }
   },
@@ -28,6 +39,12 @@
     "properties": {
       "domain_tags": [
         "strategy"
+      ],
+      "aliases": [
+        "SWOT",
+        "TOWS",
+        "SWOT Analysis",
+        "TOWS Matrix"
       ]
     }
   },
@@ -40,6 +57,10 @@
       "year": 1991,
       "domain_tags": [
         "strategy"
+      ],
+      "aliases": [
+        "VRIO",
+        "VRIN"
       ]
     }
   },
@@ -53,6 +74,11 @@
       "domain_tags": [
         "strategy",
         "portfolio"
+      ],
+      "aliases": [
+        "BCG Matrix",
+        "Growth-Share Matrix",
+        "BCG"
       ]
     }
   },
@@ -66,6 +92,11 @@
       "domain_tags": [
         "strategy",
         "growth"
+      ],
+      "aliases": [
+        "Ansoff Matrix",
+        "Ansoff",
+        "Ansoff Growth Matrix"
       ]
     }
   },
@@ -79,6 +110,11 @@
       "domain_tags": [
         "strategy",
         "organization"
+      ],
+      "aliases": [
+        "McKinsey 7S",
+        "7S Framework",
+        "7-S Model"
       ]
     }
   },
@@ -91,6 +127,11 @@
       "year": 2004,
       "domain_tags": [
         "strategy"
+      ],
+      "aliases": [
+        "Blue Ocean",
+        "Blue Ocean Strategy",
+        "Value Innovation"
       ]
     }
   },
@@ -104,6 +145,11 @@
       "domain_tags": [
         "strategy",
         "performance"
+      ],
+      "aliases": [
+        "OKR",
+        "OKRs",
+        "Objectives and Key Results"
       ]
     }
   },
@@ -117,6 +163,11 @@
       "domain_tags": [
         "strategy",
         "performance"
+      ],
+      "aliases": [
+        "BSC",
+        "Balanced Scorecard",
+        "Balanced Score Card"
       ]
     }
   },
@@ -129,6 +180,11 @@
       "year": 2010,
       "domain_tags": [
         "business-model"
+      ],
+      "aliases": [
+        "BMC",
+        "Business Model Canvas",
+        "Business Canvas"
       ]
     }
   },
@@ -142,6 +198,13 @@
       "domain_tags": [
         "operations",
         "manufacturing"
+      ],
+      "aliases": [
+        "Lean",
+        "Lean Manufacturing",
+        "Lean Thinking",
+        "TPS",
+        "Toyota Production System"
       ]
     }
   },
@@ -155,6 +218,12 @@
       "domain_tags": [
         "quality",
         "manufacturing"
+      ],
+      "aliases": [
+        "Six Sigma",
+        "6 Sigma",
+        "DMAIC",
+        "DMADV"
       ]
     }
   },
@@ -168,6 +237,11 @@
       "domain_tags": [
         "logistics",
         "supply-chain"
+      ],
+      "aliases": [
+        "SCOR",
+        "SCOR Model",
+        "SCOR 6 processes"
       ]
     }
   },
@@ -179,6 +253,11 @@
       "domain_tags": [
         "operations",
         "logistics"
+      ],
+      "aliases": [
+        "S&OP",
+        "Sales and Operations Planning",
+        "Sales & Operations Planning"
       ]
     }
   },
@@ -191,6 +270,10 @@
       "domain_tags": [
         "operations",
         "manufacturing"
+      ],
+      "aliases": [
+        "Kanban",
+        "Kanban Board"
       ]
     }
   },
@@ -203,6 +286,11 @@
       "domain_tags": [
         "operations",
         "manufacturing"
+      ],
+      "aliases": [
+        "Kaizen",
+        "Kaizen Event",
+        "Continuous Improvement"
       ]
     }
   },
@@ -215,6 +303,11 @@
       "year": 1988,
       "domain_tags": [
         "sales"
+      ],
+      "aliases": [
+        "SPIN",
+        "SPIN Selling",
+        "SPIN method"
       ]
     }
   },
@@ -226,6 +319,11 @@
       "domain_tags": [
         "sales",
         "b2b"
+      ],
+      "aliases": [
+        "MEDDIC",
+        "MEDDPICC",
+        "MEDDIC framework"
       ]
     }
   },
@@ -237,6 +335,10 @@
       "origin": "IBM",
       "domain_tags": [
         "sales"
+      ],
+      "aliases": [
+        "BANT",
+        "Budget Authority Need Timeline"
       ]
     }
   },
@@ -248,6 +350,10 @@
       "domain_tags": [
         "marketing",
         "sales"
+      ],
+      "aliases": [
+        "AIDA",
+        "Attention Interest Desire Action"
       ]
     }
   },
@@ -260,6 +366,13 @@
       "year": 1960,
       "domain_tags": [
         "marketing"
+      ],
+      "aliases": [
+        "4P",
+        "7P",
+        "Marketing Mix",
+        "4Ps",
+        "7Ps"
       ]
     }
   },
@@ -270,6 +383,11 @@
     "properties": {
       "domain_tags": [
         "marketing"
+      ],
+      "aliases": [
+        "STP",
+        "Segmentation Targeting Positioning",
+        "STP Model"
       ]
     }
   },
@@ -282,6 +400,11 @@
         "marketing",
         "b2b",
         "sales"
+      ],
+      "aliases": [
+        "ABM",
+        "Account-Based Marketing",
+        "Account Based Marketing"
       ]
     }
   },
@@ -294,6 +417,11 @@
       "domain_tags": [
         "marketing",
         "growth"
+      ],
+      "aliases": [
+        "AARRR",
+        "Pirate Metrics",
+        "Acquisition Activation Retention Revenue Referral"
       ]
     }
   },
@@ -305,6 +433,11 @@
       "domain_tags": [
         "inventory",
         "manufacturing"
+      ],
+      "aliases": [
+        "EOQ",
+        "Economic Order Quantity",
+        "√2DS/H"
       ]
     }
   },
@@ -316,6 +449,11 @@
       "domain_tags": [
         "logistics",
         "supply-chain"
+      ],
+      "aliases": [
+        "Bullwhip Effect",
+        "Bullwhip",
+        "Forrester Effect"
       ]
     }
   },
@@ -327,6 +465,12 @@
       "domain_tags": [
         "inventory",
         "logistics"
+      ],
+      "aliases": [
+        "ABC Analysis",
+        "ABC-XYZ",
+        "ABC XYZ analysis",
+        "ABC slotting"
       ]
     }
   },
@@ -340,6 +484,11 @@
       "domain_tags": [
         "procurement",
         "manufacturing"
+      ],
+      "aliases": [
+        "Kraljic Matrix",
+        "Kraljic",
+        "Procurement Matrix"
       ]
     }
   },
@@ -353,6 +502,11 @@
       "domain_tags": [
         "operations",
         "consulting"
+      ],
+      "aliases": [
+        "BABOK",
+        "BABOK v3",
+        "Business Analysis Body of Knowledge"
       ]
     }
   },
@@ -364,6 +518,11 @@
       "domain_tags": [
         "operations",
         "project"
+      ],
+      "aliases": [
+        "MoSCoW",
+        "Moscow Method",
+        "Must Should Could Won't"
       ]
     }
   },
@@ -376,6 +535,10 @@
       "domain_tags": [
         "project",
         "operations"
+      ],
+      "aliases": [
+        "PMBOK",
+        "PMI PMBOK"
       ]
     }
   },
@@ -387,6 +550,9 @@
       "domain_tags": [
         "project",
         "operations"
+      ],
+      "aliases": [
+        "PRINCE2"
       ]
     }
   },
@@ -398,6 +564,10 @@
       "domain_tags": [
         "project",
         "technology"
+      ],
+      "aliases": [
+        "Agile",
+        "Agile methodology"
       ]
     }
   },
@@ -409,6 +579,10 @@
       "domain_tags": [
         "project",
         "technology"
+      ],
+      "aliases": [
+        "Scrum",
+        "Scrum framework"
       ]
     }
   },
@@ -420,6 +594,10 @@
       "domain_tags": [
         "crm",
         "data"
+      ],
+      "aliases": [
+        "CDP",
+        "Customer Data Platform"
       ]
     }
   },
@@ -430,6 +608,11 @@
     "properties": {
       "domain_tags": [
         "finance"
+      ],
+      "aliases": [
+        "DCF",
+        "Discounted Cash Flow",
+        "DCF model"
       ]
     }
   },
@@ -440,6 +623,10 @@
     "properties": {
       "domain_tags": [
         "finance"
+      ],
+      "aliases": [
+        "WACC",
+        "Weighted Average Cost of Capital"
       ]
     }
   },
@@ -453,6 +640,14 @@
       "domain_tags": [
         "logistics",
         "trade"
+      ],
+      "aliases": [
+        "Incoterms",
+        "Incoterms 2020",
+        "EXW",
+        "FOB",
+        "CIF",
+        "DDP"
       ]
     }
   },
@@ -466,6 +661,12 @@
       "domain_tags": [
         "consulting",
         "communication"
+      ],
+      "aliases": [
+        "Pyramid Principle",
+        "Minto Pyramid",
+        "SCQA",
+        "BLUF"
       ]
     }
   },
@@ -477,6 +678,11 @@
       "origin": "McKinsey & Company",
       "domain_tags": [
         "consulting"
+      ],
+      "aliases": [
+        "Issue Tree",
+        "MECE",
+        "Mutually Exclusive Collectively Exhaustive"
       ]
     }
   },
@@ -489,6 +695,12 @@
       "domain_tags": [
         "operations",
         "quality"
+      ],
+      "aliases": [
+        "5 Whys",
+        "5 Why",
+        "Five Whys",
+        "Root Cause Analysis"
       ]
     }
   },
@@ -500,6 +712,11 @@
       "domain_tags": [
         "quality",
         "operations"
+      ],
+      "aliases": [
+        "Fishbone",
+        "Ishikawa",
+        "Cause and Effect Diagram"
       ]
     }
   },
@@ -511,6 +728,11 @@
       "domain_tags": [
         "quality",
         "operations"
+      ],
+      "aliases": [
+        "PDCA",
+        "Deming Cycle",
+        "Plan Do Check Act"
       ]
     }
   },
@@ -522,6 +744,11 @@
       "domain_tags": [
         "marketing",
         "product"
+      ],
+      "aliases": [
+        "JTBD",
+        "Jobs to be Done",
+        "Jobs-to-be-Done"
       ]
     }
   },
@@ -533,6 +760,11 @@
       "domain_tags": [
         "crm",
         "marketing"
+      ],
+      "aliases": [
+        "NPS",
+        "Net Promoter Score",
+        "Net Promoter"
       ]
     }
   },
@@ -547,6 +779,12 @@
       "domain_tags": [
         "corporate",
         "governance"
+      ],
+      "aliases": [
+        "Luật DN 2020",
+        "Luật Doanh Nghiệp 2020",
+        "59/2020/QH14",
+        "59/2020"
       ]
     }
   },
@@ -561,6 +799,13 @@
       "domain_tags": [
         "hr",
         "labor"
+      ],
+      "aliases": [
+        "BLLĐ 2019",
+        "BLLĐ 45/2019",
+        "45/2019/QH14",
+        "Luật Lao Động 2019",
+        "Bộ Luật Lao Động"
       ]
     }
   },
@@ -575,6 +820,12 @@
       "domain_tags": [
         "investment",
         "fdi"
+      ],
+      "aliases": [
+        "Luật Đầu Tư 2020",
+        "61/2020/QH14",
+        "61/2020",
+        "Luật Đầu Tư"
       ]
     }
   },
@@ -589,6 +840,12 @@
       "domain_tags": [
         "commercial",
         "contract"
+      ],
+      "aliases": [
+        "Luật Thương Mại 2005",
+        "LTM 2005",
+        "36/2005/QH11",
+        "36/2005"
       ]
     }
   },
@@ -603,6 +860,11 @@
       "domain_tags": [
         "accounting",
         "finance"
+      ],
+      "aliases": [
+        "Luật Kế Toán 2015",
+        "88/2015/QH13",
+        "88/2015"
       ]
     }
   },
@@ -617,6 +879,12 @@
       "domain_tags": [
         "ip",
         "law"
+      ],
+      "aliases": [
+        "Luật SHTT",
+        "Luật Sở Hữu Trí Tuệ",
+        "07/2022/QH15",
+        "50/2005"
       ]
     }
   },
@@ -631,6 +899,11 @@
       "domain_tags": [
         "competition",
         "commercial"
+      ],
+      "aliases": [
+        "Luật Cạnh Tranh 2018",
+        "23/2018/QH14",
+        "Luật Cạnh Tranh"
       ]
     }
   },
@@ -645,6 +918,11 @@
       "domain_tags": [
         "land",
         "real-estate"
+      ],
+      "aliases": [
+        "Luật Đất Đai 2024",
+        "31/2024/QH15",
+        "Luật Đất Đai"
       ]
     }
   },
@@ -658,6 +936,11 @@
       "effective_date": "2025-01-01",
       "domain_tags": [
         "real-estate"
+      ],
+      "aliases": [
+        "Luật Nhà Ở 2023",
+        "27/2023/QH15",
+        "Luật Nhà Ở"
       ]
     }
   },
@@ -671,6 +954,11 @@
       "effective_date": "2025-01-01",
       "domain_tags": [
         "real-estate"
+      ],
+      "aliases": [
+        "Luật Kinh Doanh BĐS",
+        "29/2023/QH15",
+        "Luật KDBĐS"
       ]
     }
   },
@@ -685,6 +973,12 @@
       "domain_tags": [
         "procurement",
         "public"
+      ],
+      "aliases": [
+        "Luật Đấu Thầu 2023",
+        "22/2023/QH15",
+        "61/2023",
+        "Luật Đấu Thầu"
       ]
     }
   },
@@ -699,6 +993,11 @@
       "domain_tags": [
         "customs",
         "logistics"
+      ],
+      "aliases": [
+        "Luật Hải Quan 2014",
+        "54/2014/QH13",
+        "Luật Hải Quan"
       ]
     }
   },
@@ -713,6 +1012,11 @@
       "domain_tags": [
         "investment",
         "infrastructure"
+      ],
+      "aliases": [
+        "Luật PPP",
+        "64/2020/QH14",
+        "PPP Law"
       ]
     }
   },
@@ -726,6 +1030,12 @@
       "domain_tags": [
         "hr",
         "social-insurance"
+      ],
+      "aliases": [
+        "Luật BHXH",
+        "BHXH",
+        "58/2014/QH13",
+        "Social Insurance Law"
       ]
     }
   },
@@ -741,6 +1051,13 @@
         "data",
         "privacy",
         "crm"
+      ],
+      "aliases": [
+        "NĐ 13/2023",
+        "NĐ13/2023",
+        "13/2023/NĐ-CP",
+        "PDPA VN",
+        "Nghị định 13"
       ]
     }
   },
@@ -755,6 +1072,13 @@
       "domain_tags": [
         "accounting",
         "finance"
+      ],
+      "aliases": [
+        "TT 200/2014",
+        "TT200",
+        "200/2014/TT-BTC",
+        "VAS 02",
+        "Thông Tư 200"
       ]
     }
   },
@@ -767,6 +1091,11 @@
       "jurisdiction": "VN",
       "domain_tags": [
         "accounting"
+      ],
+      "aliases": [
+        "TT 48/2019",
+        "TT48",
+        "48/2019/TT-BTC"
       ]
     }
   },
@@ -780,6 +1109,12 @@
       "domain_tags": [
         "tax",
         "finance"
+      ],
+      "aliases": [
+        "Thuế TNDN",
+        "CIT",
+        "Thuế thu nhập doanh nghiệp",
+        "corporate income tax VN"
       ]
     }
   },
@@ -792,6 +1127,11 @@
       "jurisdiction": "VN",
       "domain_tags": [
         "tax"
+      ],
+      "aliases": [
+        "Thuế GTGT",
+        "VAT VN",
+        "Thuế giá trị gia tăng"
       ]
     }
   },
@@ -805,6 +1145,11 @@
       "domain_tags": [
         "tax",
         "hr"
+      ],
+      "aliases": [
+        "Thuế TNCN",
+        "PIT VN",
+        "Thuế thu nhập cá nhân"
       ]
     }
   },
@@ -818,6 +1163,11 @@
       "domain_tags": [
         "dispute",
         "commercial"
+      ],
+      "aliases": [
+        "Luật Trọng Tài",
+        "54/2010/QH12",
+        "LTTTM"
       ]
     }
   },
@@ -831,6 +1181,11 @@
       "domain_tags": [
         "civil",
         "contract"
+      ],
+      "aliases": [
+        "BLDS 2015",
+        "Bộ Luật Dân Sự",
+        "91/2015/QH13"
       ]
     }
   },
@@ -844,6 +1199,10 @@
       "domain_tags": [
         "hr",
         "labor"
+      ],
+      "aliases": [
+        "NĐ 145/2020",
+        "145/2020/NĐ-CP"
       ]
     }
   },
@@ -858,6 +1217,10 @@
         "trade",
         "fta",
         "logistics"
+      ],
+      "aliases": [
+        "EVFTA",
+        "EU-Vietnam FTA"
       ]
     }
   },
@@ -872,6 +1235,11 @@
         "trade",
         "fta",
         "logistics"
+      ],
+      "aliases": [
+        "CPTPP",
+        "TPP",
+        "Trans-Pacific Partnership"
       ]
     }
   },
@@ -885,6 +1253,10 @@
       "domain_tags": [
         "trade",
         "fta"
+      ],
+      "aliases": [
+        "RCEP",
+        "Regional Comprehensive Economic Partnership"
       ]
     }
   },
@@ -899,6 +1271,10 @@
       "domain_tags": [
         "data",
         "privacy"
+      ],
+      "aliases": [
+        "GDPR",
+        "General Data Protection Regulation"
       ]
     }
   },
@@ -911,6 +1287,11 @@
       "domain_tags": [
         "accounting",
         "finance"
+      ],
+      "aliases": [
+        "IFRS 15",
+        "IFRS15",
+        "Revenue Recognition IFRS"
       ]
     }
   },
@@ -923,6 +1304,10 @@
       "domain_tags": [
         "accounting",
         "finance"
+      ],
+      "aliases": [
+        "IFRS 16",
+        "IFRS16"
       ]
     }
   },
@@ -935,6 +1320,10 @@
       "domain_tags": [
         "accounting",
         "finance"
+      ],
+      "aliases": [
+        "IFRS 9",
+        "IFRS9"
       ]
     }
   },
@@ -947,6 +1336,10 @@
       "domain_tags": [
         "accounting",
         "insurance"
+      ],
+      "aliases": [
+        "IFRS 17",
+        "IFRS17"
       ]
     }
   },
@@ -959,6 +1352,11 @@
       "jurisdiction": "US",
       "domain_tags": [
         "accounting"
+      ],
+      "aliases": [
+        "US GAAP",
+        "GAAP",
+        "FASB"
       ]
     }
   },
@@ -971,6 +1369,16 @@
       "jurisdiction": "VN",
       "domain_tags": [
         "accounting"
+      ],
+      "aliases": [
+        "VAS",
+        "Chuẩn mực kế toán VN",
+        "VAS 01",
+        "VAS 02",
+        "VAS 03",
+        "VAS 10",
+        "VAS 14",
+        "VAS 17"
       ]
     }
   },
@@ -983,6 +1391,11 @@
       "domain_tags": [
         "quality",
         "operations"
+      ],
+      "aliases": [
+        "ISO 9001",
+        "ISO9001",
+        "ISO 9001:2015"
       ]
     }
   },
@@ -995,6 +1408,10 @@
       "domain_tags": [
         "environment",
         "esg"
+      ],
+      "aliases": [
+        "ISO 14001",
+        "ISO14001"
       ]
     }
   },
@@ -1007,6 +1424,11 @@
       "domain_tags": [
         "hr",
         "safety"
+      ],
+      "aliases": [
+        "ISO 45001",
+        "ISO45001",
+        "OHSAS 18001"
       ]
     }
   },
@@ -1019,6 +1441,10 @@
       "domain_tags": [
         "strategy",
         "innovation"
+      ],
+      "aliases": [
+        "ISO 56002",
+        "ISO56002"
       ]
     }
   },
@@ -1031,6 +1457,11 @@
       "domain_tags": [
         "technology",
         "security"
+      ],
+      "aliases": [
+        "SOC 2",
+        "SOC2",
+        "SOC 1"
       ]
     }
   },
@@ -1043,6 +1474,10 @@
       "domain_tags": [
         "governance",
         "technology"
+      ],
+      "aliases": [
+        "COBIT",
+        "COBIT 2019"
       ]
     }
   },
@@ -1055,6 +1490,11 @@
       "domain_tags": [
         "technology",
         "operations"
+      ],
+      "aliases": [
+        "ITIL",
+        "ITIL 4",
+        "ITIL v4"
       ]
     }
   },
@@ -1067,6 +1507,13 @@
       "domain_tags": [
         "esg",
         "governance"
+      ],
+      "aliases": [
+        "GRI",
+        "GRI 2021",
+        "GRI Standards",
+        "GRI 302",
+        "GRI 401"
       ]
     }
   },
@@ -1079,6 +1526,10 @@
       "domain_tags": [
         "esg",
         "finance"
+      ],
+      "aliases": [
+        "SASB",
+        "SASB Standards"
       ]
     }
   },
@@ -1091,6 +1542,10 @@
       "domain_tags": [
         "esg",
         "finance"
+      ],
+      "aliases": [
+        "TCFD",
+        "Task Force Climate"
       ]
     }
   },
@@ -1104,6 +1559,13 @@
       "domain_tags": [
         "customs",
         "logistics"
+      ],
+      "aliases": [
+        "VNACCS",
+        "hệ thống thông quan",
+        "luồng Xanh",
+        "luồng Vàng",
+        "luồng Đỏ"
       ]
     }
   },
@@ -1117,6 +1579,10 @@
       "domain_tags": [
         "ip",
         "law"
+      ],
+      "aliases": [
+        "TRIPS",
+        "TRIPS Agreement"
       ]
     }
   },
@@ -1127,7 +1593,11 @@
     "properties": {
       "country": "VN",
       "industry": "FMCG / Dairy",
-      "type_tag": "public"
+      "type_tag": "public",
+      "aliases": [
+        "Vinamilk",
+        "Vietnam Dairy Products"
+      ]
     }
   },
   {
@@ -1136,7 +1606,14 @@
     "label": "Masan Consumer",
     "properties": {
       "country": "VN",
-      "industry": "FMCG"
+      "industry": "FMCG",
+      "aliases": [
+        "Masan",
+        "Masan Consumer",
+        "Masan Group",
+        "WinMart",
+        "VinShop"
+      ]
     }
   },
   {
@@ -1145,7 +1622,12 @@
     "label": "Thaco (Trường Hải Auto)",
     "properties": {
       "country": "VN",
-      "industry": "Automotive / Retail"
+      "industry": "Automotive / Retail",
+      "aliases": [
+        "Thaco",
+        "Trường Hải",
+        "Trường Hải Auto"
+      ]
     }
   },
   {
@@ -1154,7 +1636,14 @@
     "label": "Vingroup",
     "properties": {
       "country": "VN",
-      "industry": "Conglomerate"
+      "industry": "Conglomerate",
+      "aliases": [
+        "Vingroup",
+        "VinFast",
+        "VinHomes",
+        "VinID",
+        "VinID"
+      ]
     }
   },
   {
@@ -1163,7 +1652,13 @@
     "label": "FPT Corporation",
     "properties": {
       "country": "VN",
-      "industry": "Technology / IT Services"
+      "industry": "Technology / IT Services",
+      "aliases": [
+        "FPT",
+        "FPT Software",
+        "FPT Telecom",
+        "FPT Education"
+      ]
     }
   },
   {
@@ -1172,7 +1667,12 @@
     "label": "Viettel Group",
     "properties": {
       "country": "VN",
-      "industry": "Telecommunications"
+      "industry": "Telecommunications",
+      "aliases": [
+        "Viettel",
+        "Viettel Solutions",
+        "Viettel Telecom"
+      ]
     }
   },
   {
@@ -1181,7 +1681,11 @@
     "label": "VNPT",
     "properties": {
       "country": "VN",
-      "industry": "Telecommunications"
+      "industry": "Telecommunications",
+      "aliases": [
+        "VNPT",
+        "Vietnam Posts and Telecommunications"
+      ]
     }
   },
   {
@@ -1190,7 +1694,12 @@
     "label": "VNG Corporation",
     "properties": {
       "country": "VN",
-      "industry": "Technology / Gaming"
+      "industry": "Technology / Gaming",
+      "aliases": [
+        "VNG",
+        "Zalo",
+        "ZaloPay"
+      ]
     }
   },
   {
@@ -1199,7 +1708,12 @@
     "label": "MoMo (M_Service)",
     "properties": {
       "country": "VN",
-      "industry": "Fintech"
+      "industry": "Fintech",
+      "aliases": [
+        "MoMo",
+        "M_Service",
+        "Ví MoMo"
+      ]
     }
   },
   {
@@ -1208,7 +1722,14 @@
     "label": "Shopee Vietnam",
     "properties": {
       "country": "VN",
-      "industry": "E-commerce"
+      "industry": "E-commerce",
+      "aliases": [
+        "Shopee VN",
+        "Shopee Vietnam",
+        "Shopee",
+        "SPX",
+        "Shopee Xpress"
+      ]
     }
   },
   {
@@ -1217,7 +1738,11 @@
     "label": "Tiki",
     "properties": {
       "country": "VN",
-      "industry": "E-commerce"
+      "industry": "E-commerce",
+      "aliases": [
+        "Tiki",
+        "TikiNOW"
+      ]
     }
   },
   {
@@ -1226,7 +1751,12 @@
     "label": "Lazada Vietnam",
     "properties": {
       "country": "VN",
-      "industry": "E-commerce"
+      "industry": "E-commerce",
+      "aliases": [
+        "Lazada VN",
+        "Lazada Vietnam",
+        "Lazada"
+      ]
     }
   },
   {
@@ -1235,7 +1765,14 @@
     "label": "Grab Vietnam",
     "properties": {
       "country": "VN",
-      "industry": "Super App / Transport"
+      "industry": "Super App / Transport",
+      "aliases": [
+        "Grab",
+        "Grab VN",
+        "Grab Vietnam",
+        "GrabFood",
+        "GrabPay"
+      ]
     }
   },
   {
@@ -1244,7 +1781,12 @@
     "label": "Be Group",
     "properties": {
       "country": "VN",
-      "industry": "Transport / Fintech"
+      "industry": "Transport / Fintech",
+      "aliases": [
+        "Be Group",
+        "be",
+        "beFinancial"
+      ]
     }
   },
   {
@@ -1253,7 +1795,11 @@
     "label": "Giao Hàng Nhanh (GHN)",
     "properties": {
       "country": "VN",
-      "industry": "Logistics"
+      "industry": "Logistics",
+      "aliases": [
+        "GHN",
+        "Giao Hàng Nhanh"
+      ]
     }
   },
   {
@@ -1262,7 +1808,11 @@
     "label": "Giao Hàng Tiết Kiệm (GHTK)",
     "properties": {
       "country": "VN",
-      "industry": "Logistics"
+      "industry": "Logistics",
+      "aliases": [
+        "GHTK",
+        "Giao Hàng Tiết Kiệm"
+      ]
     }
   },
   {
@@ -1271,7 +1821,11 @@
     "label": "Techcombank",
     "properties": {
       "country": "VN",
-      "industry": "Banking"
+      "industry": "Banking",
+      "aliases": [
+        "Techcombank",
+        "TCB"
+      ]
     }
   },
   {
@@ -1280,7 +1834,10 @@
     "label": "VPBank",
     "properties": {
       "country": "VN",
-      "industry": "Banking"
+      "industry": "Banking",
+      "aliases": [
+        "VPBank"
+      ]
     }
   },
   {
@@ -1289,7 +1846,12 @@
     "label": "Samsung Vietnam",
     "properties": {
       "country": "KR",
-      "industry": "Electronics / Manufacturing"
+      "industry": "Electronics / Manufacturing",
+      "aliases": [
+        "Samsung VN",
+        "Samsung Vietnam",
+        "Samsung"
+      ]
     }
   },
   {
@@ -1298,7 +1860,12 @@
     "label": "Intel Vietnam",
     "properties": {
       "country": "US",
-      "industry": "Semiconductor / Manufacturing"
+      "industry": "Semiconductor / Manufacturing",
+      "aliases": [
+        "Intel VN",
+        "Intel Vietnam",
+        "Intel"
+      ]
     }
   },
   {
@@ -1307,7 +1874,12 @@
     "label": "LG Electronics Vietnam",
     "properties": {
       "country": "KR",
-      "industry": "Electronics"
+      "industry": "Electronics",
+      "aliases": [
+        "LG VN",
+        "LG Vietnam",
+        "LG Electronics"
+      ]
     }
   },
   {
@@ -1316,7 +1888,11 @@
     "label": "Apple Inc.",
     "properties": {
       "country": "US",
-      "industry": "Technology"
+      "industry": "Technology",
+      "aliases": [
+        "Apple",
+        "Apple Inc"
+      ]
     }
   },
   {
@@ -1325,7 +1901,13 @@
     "label": "Google / Alphabet",
     "properties": {
       "country": "US",
-      "industry": "Technology"
+      "industry": "Technology",
+      "aliases": [
+        "Google",
+        "Alphabet",
+        "Google Analytics",
+        "Google Ads"
+      ]
     }
   },
   {
@@ -1334,7 +1916,12 @@
     "label": "Amazon",
     "properties": {
       "country": "US",
-      "industry": "E-commerce / Cloud"
+      "industry": "E-commerce / Cloud",
+      "aliases": [
+        "Amazon",
+        "AWS",
+        "Amazon Web Services"
+      ]
     }
   },
   {
@@ -1343,7 +1930,14 @@
     "label": "Microsoft",
     "properties": {
       "country": "US",
-      "industry": "Technology"
+      "industry": "Technology",
+      "aliases": [
+        "Microsoft",
+        "Azure",
+        "Dynamics 365",
+        "Dynamics",
+        "Power BI"
+      ]
     }
   },
   {
@@ -1352,7 +1946,13 @@
     "label": "SAP SE",
     "properties": {
       "country": "DE",
-      "industry": "ERP Software"
+      "industry": "ERP Software",
+      "aliases": [
+        "SAP",
+        "SAP S/4HANA",
+        "SAP ERP",
+        "SAP APO"
+      ]
     }
   },
   {
@@ -1361,7 +1961,13 @@
     "label": "Salesforce",
     "properties": {
       "country": "US",
-      "industry": "CRM Software"
+      "industry": "CRM Software",
+      "aliases": [
+        "Salesforce",
+        "Salesforce CRM",
+        "Sales Cloud",
+        "Marketing Cloud"
+      ]
     }
   },
   {
@@ -1370,7 +1976,11 @@
     "label": "HubSpot",
     "properties": {
       "country": "US",
-      "industry": "CRM / Marketing"
+      "industry": "CRM / Marketing",
+      "aliases": [
+        "HubSpot",
+        "HubSpot CRM"
+      ]
     }
   },
   {
@@ -1379,7 +1989,11 @@
     "label": "Odoo",
     "properties": {
       "country": "BE",
-      "industry": "ERP Software"
+      "industry": "ERP Software",
+      "aliases": [
+        "Odoo",
+        "OpenERP"
+      ]
     }
   },
   {
@@ -1388,7 +2002,12 @@
     "label": "McKinsey & Company",
     "properties": {
       "country": "US",
-      "industry": "Management Consulting"
+      "industry": "Management Consulting",
+      "aliases": [
+        "McKinsey",
+        "McKinsey & Company",
+        "McKinsey Global Institute"
+      ]
     }
   },
   {
@@ -1397,7 +2016,11 @@
     "label": "Boston Consulting Group (BCG)",
     "properties": {
       "country": "US",
-      "industry": "Management Consulting"
+      "industry": "Management Consulting",
+      "aliases": [
+        "BCG",
+        "Boston Consulting Group"
+      ]
     }
   },
   {
@@ -1406,7 +2029,11 @@
     "label": "Deloitte",
     "properties": {
       "country": "US",
-      "industry": "Professional Services"
+      "industry": "Professional Services",
+      "aliases": [
+        "Deloitte",
+        "Deloitte Consulting"
+      ]
     }
   },
   {

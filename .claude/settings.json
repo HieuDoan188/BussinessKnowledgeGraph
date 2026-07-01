@@ -6,7 +6,12 @@
       "Bash(node -e ' *)",
       "Bash(node tools/query-graph.mjs --module S01)",
       "Bash(node tools/query-graph.mjs --entity FW-SCOR)",
-      "Bash(node tools/query-graph.mjs --path F01 MF05)"
+      "Bash(node tools/query-graph.mjs --path F01 MF05)",
+      "Bash(node tools/query-graph.mjs --law \"Luật Đất Đai\")",
+      "Bash(node tools/build-graph.mjs)",
+      "Bash(node tools/query-graph.mjs --law \"NĐ 13\")",
+      "Bash(node tools/query-graph.mjs --law \"PDPA\")",
+      "Bash(node tools/query-graph.mjs --law \"45/2019\")"
     ],
     "additionalDirectories": [
       "e:\\prj\\BussinessKnowledgeGraph\\schema"

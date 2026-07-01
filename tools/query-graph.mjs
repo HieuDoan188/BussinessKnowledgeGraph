@@ -125,7 +125,14 @@ try {
     printEntity(node, edges, byId);
 
   } else if (flag === '--law') {
-    const matches = nodes.filter(n => n.type === 'Law' && (n.label.toLowerCase().includes(param?.toLowerCase()) || n.id.toLowerCase().includes(param?.toLowerCase())));
+    const q = param?.toLowerCase();
+    const matches = nodes.filter(n => {
+      if (n.type !== 'Law') return false;
+      if (n.label.toLowerCase().includes(q)) return true;
+      if (n.id.toLowerCase().includes(q)) return true;
+      const aliases = n.properties?.aliases || [];
+      return aliases.some(a => a.toLowerCase().includes(q));
+    });
     if (!matches.length) { console.error(`No laws found matching: ${param}`); process.exit(1); }
     for (const node of matches) printEntity(node, edges, byId);
 

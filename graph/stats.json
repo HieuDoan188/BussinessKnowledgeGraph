@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-07-01T02:58:24.250Z",
+  "total_nodes": 287,
+  "total_edges": 1741,
+  "nodes_by_type": {
+    "Framework": 109,
+    "Law": 27,
+    "Standard": 18,
+    "Company": 32,
+    "Module": 101
+  },
+  "edges_by_relation": {
+    "relates_to": 165,
+    "implements": 132,
+    "used_in": 343,
+    "regulated_by": 360,
+    "exemplified_by": 637,
+    "prerequisite_of": 104
+  },
+  "modules": {
+    "total": 101,
+    "complete": 73,
+    "pending": 24
+  }
+}

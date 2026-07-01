@@ -1,0 +1,3745 @@
+[
+  {
+    "id": "FW-PORTER5",
+    "type": "Framework",
+    "label": "Porter's Five Forces",
+    "properties": {
+      "author": "Michael Porter",
+      "year": 1979,
+      "domain_tags": [
+        "strategy"
+      ]
+    }
+  },
+  {
+    "id": "FW-PESTEL",
+    "type": "Framework",
+    "label": "PESTEL Analysis",
+    "properties": {
+      "domain_tags": [
+        "strategy"
+      ]
+    }
+  },
+  {
+    "id": "FW-SWOT",
+    "type": "Framework",
+    "label": "SWOT / TOWS Analysis",
+    "properties": {
+      "domain_tags": [
+        "strategy"
+      ]
+    }
+  },
+  {
+    "id": "FW-VRIO",
+    "type": "Framework",
+    "label": "VRIO Framework",
+    "properties": {
+      "author": "Jay Barney",
+      "year": 1991,
+      "domain_tags": [
+        "strategy"
+      ]
+    }
+  },
+  {
+    "id": "FW-BCG",
+    "type": "Framework",
+    "label": "BCG Matrix",
+    "properties": {
+      "origin": "Boston Consulting Group",
+      "year": 1970,
+      "domain_tags": [
+        "strategy",
+        "portfolio"
+      ]
+    }
+  },
+  {
+    "id": "FW-ANSOFF",
+    "type": "Framework",
+    "label": "Ansoff Matrix",
+    "properties": {
+      "author": "Igor Ansoff",
+      "year": 1957,
+      "domain_tags": [
+        "strategy",
+        "growth"
+      ]
+    }
+  },
+  {
+    "id": "FW-7S",
+    "type": "Framework",
+    "label": "McKinsey 7S Framework",
+    "properties": {
+      "origin": "McKinsey & Company",
+      "year": 1980,
+      "domain_tags": [
+        "strategy",
+        "organization"
+      ]
+    }
+  },
+  {
+    "id": "FW-BLUE-OCEAN",
+    "type": "Framework",
+    "label": "Blue Ocean Strategy",
+    "properties": {
+      "author": "W. Chan Kim, Renée Mauborgne",
+      "year": 2004,
+      "domain_tags": [
+        "strategy"
+      ]
+    }
+  },
+  {
+    "id": "FW-OKR",
+    "type": "Framework",
+    "label": "OKR (Objectives & Key Results)",
+    "properties": {
+      "author": "Andy Grove / John Doerr",
+      "year": 1970,
+      "domain_tags": [
+        "strategy",
+        "performance"
+      ]
+    }
+  },
+  {
+    "id": "FW-BSC",
+    "type": "Framework",
+    "label": "Balanced Scorecard",
+    "properties": {
+      "author": "Kaplan & Norton",
+      "year": 1992,
+      "domain_tags": [
+        "strategy",
+        "performance"
+      ]
+    }
+  },
+  {
+    "id": "FW-BMC",
+    "type": "Framework",
+    "label": "Business Model Canvas",
+    "properties": {
+      "author": "Alexander Osterwalder",
+      "year": 2010,
+      "domain_tags": [
+        "business-model"
+      ]
+    }
+  },
+  {
+    "id": "FW-LEAN",
+    "type": "Framework",
+    "label": "Lean Manufacturing / Lean Thinking",
+    "properties": {
+      "origin": "Toyota Production System",
+      "year": 1950,
+      "domain_tags": [
+        "operations",
+        "manufacturing"
+      ]
+    }
+  },
+  {
+    "id": "FW-SIX-SIGMA",
+    "type": "Framework",
+    "label": "Six Sigma",
+    "properties": {
+      "origin": "Motorola / GE",
+      "year": 1986,
+      "domain_tags": [
+        "quality",
+        "manufacturing"
+      ]
+    }
+  },
+  {
+    "id": "FW-SCOR",
+    "type": "Framework",
+    "label": "SCOR Model",
+    "properties": {
+      "origin": "Supply Chain Council / ASCM",
+      "year": 1996,
+      "domain_tags": [
+        "logistics",
+        "supply-chain"
+      ]
+    }
+  },
+  {
+    "id": "FW-SOP",
+    "type": "Framework",
+    "label": "S&OP (Sales & Operations Planning)",
+    "properties": {
+      "domain_tags": [
+        "operations",
+        "logistics"
+      ]
+    }
+  },
+  {
+    "id": "FW-KANBAN",
+    "type": "Framework",
+    "label": "Kanban",
+    "properties": {
+      "origin": "Toyota",
+      "domain_tags": [
+        "operations",
+        "manufacturing"
+      ]
+    }
+  },
+  {
+    "id": "FW-KAIZEN",
+    "type": "Framework",
+    "label": "Kaizen",
+    "properties": {
+      "origin": "Japanese manufacturing",
+      "domain_tags": [
+        "operations",
+        "manufacturing"
+      ]
+    }
+  },
+  {
+    "id": "FW-SPIN",
+    "type": "Framework",
+    "label": "SPIN Selling",
+    "properties": {
+      "author": "Neil Rackham",
+      "year": 1988,
+      "domain_tags": [
+        "sales"
+      ]
+    }
+  },
+  {
+    "id": "FW-MEDDIC",
+    "type": "Framework",
+    "label": "MEDDIC / MEDDPICC",
+    "properties": {
+      "domain_tags": [
+        "sales",
+        "b2b"
+      ]
+    }
+  },
+  {
+    "id": "FW-BANT",
+    "type": "Framework",
+    "label": "BANT Framework",
+    "properties": {
+      "origin": "IBM",
+      "domain_tags": [
+        "sales"
+      ]
+    }
+  },
+  {
+    "id": "FW-AIDA",
+    "type": "Framework",
+    "label": "AIDA Model",
+    "properties": {
+      "domain_tags": [
+        "marketing",
+        "sales"
+      ]
+    }
+  },
+  {
+    "id": "FW-4P",
+    "type": "Framework",
+    "label": "Marketing Mix (4P / 7P)",
+    "properties": {
+      "author": "E. Jerome McCarthy",
+      "year": 1960,
+      "domain_tags": [
+        "marketing"
+      ]
+    }
+  },
+  {
+    "id": "FW-STP",
+    "type": "Framework",
+    "label": "STP Model (Segmentation, Targeting, Positioning)",
+    "properties": {
+      "domain_tags": [
+        "marketing"
+      ]
+    }
+  },
+  {
+    "id": "FW-ABM",
+    "type": "Framework",
+    "label": "Account-Based Marketing (ABM)",
+    "properties": {
+      "domain_tags": [
+        "marketing",
+        "b2b",
+        "sales"
+      ]
+    }
+  },
+  {
+    "id": "FW-AARRR",
+    "type": "Framework",
+    "label": "AARRR Pirate Metrics",
+    "properties": {
+      "author": "Dave McClure",
+      "domain_tags": [
+        "marketing",
+        "growth"
+      ]
+    }
+  },
+  {
+    "id": "FW-EOQ",
+    "type": "Framework",
+    "label": "EOQ Model (Economic Order Quantity)",
+    "properties": {
+      "domain_tags": [
+        "inventory",
+        "manufacturing"
+      ]
+    }
+  },
+  {
+    "id": "FW-BULLWHIP",
+    "type": "Framework",
+    "label": "Bullwhip Effect",
+    "properties": {
+      "domain_tags": [
+        "logistics",
+        "supply-chain"
+      ]
+    }
+  },
+  {
+    "id": "FW-ABC-XYZ",
+    "type": "Framework",
+    "label": "ABC-XYZ Analysis",
+    "properties": {
+      "domain_tags": [
+        "inventory",
+        "logistics"
+      ]
+    }
+  },
+  {
+    "id": "FW-KRALJIC",
+    "type": "Framework",
+    "label": "Kraljic Matrix",
+    "properties": {
+      "author": "Peter Kraljic",
+      "year": 1983,
+      "domain_tags": [
+        "procurement",
+        "manufacturing"
+      ]
+    }
+  },
+  {
+    "id": "FW-BABOK",
+    "type": "Framework",
+    "label": "BABOK (Business Analysis Body of Knowledge)",
+    "properties": {
+      "origin": "IIBA",
+      "version": "v3",
+      "domain_tags": [
+        "operations",
+        "consulting"
+      ]
+    }
+  },
+  {
+    "id": "FW-MOSCOW",
+    "type": "Framework",
+    "label": "MoSCoW Method",
+    "properties": {
+      "domain_tags": [
+        "operations",
+        "project"
+      ]
+    }
+  },
+  {
+    "id": "FW-PMBOK",
+    "type": "Framework",
+    "label": "PMBOK (Project Management Body of Knowledge)",
+    "properties": {
+      "origin": "PMI",
+      "domain_tags": [
+        "project",
+        "operations"
+      ]
+    }
+  },
+  {
+    "id": "FW-PRINCE2",
+    "type": "Framework",
+    "label": "PRINCE2",
+    "properties": {
+      "domain_tags": [
+        "project",
+        "operations"
+      ]
+    }
+  },
+  {
+    "id": "FW-AGILE",
+    "type": "Framework",
+    "label": "Agile",
+    "properties": {
+      "domain_tags": [
+        "project",
+        "technology"
+      ]
+    }
+  },
+  {
+    "id": "FW-SCRUM",
+    "type": "Framework",
+    "label": "Scrum",
+    "properties": {
+      "domain_tags": [
+        "project",
+        "technology"
+      ]
+    }
+  },
+  {
+    "id": "FW-CDP",
+    "type": "Framework",
+    "label": "CDP Architecture (Customer Data Platform)",
+    "properties": {
+      "domain_tags": [
+        "crm",
+        "data"
+      ]
+    }
+  },
+  {
+    "id": "FW-DCF",
+    "type": "Framework",
+    "label": "DCF Valuation (Discounted Cash Flow)",
+    "properties": {
+      "domain_tags": [
+        "finance"
+      ]
+    }
+  },
+  {
+    "id": "FW-WACC",
+    "type": "Framework",
+    "label": "WACC (Weighted Average Cost of Capital)",
+    "properties": {
+      "domain_tags": [
+        "finance"
+      ]
+    }
+  },
+  {
+    "id": "FW-INCOTERMS",
+    "type": "Framework",
+    "label": "Incoterms 2020",
+    "properties": {
+      "origin": "ICC",
+      "year": 2020,
+      "domain_tags": [
+        "logistics",
+        "trade"
+      ]
+    }
+  },
+  {
+    "id": "FW-PYRAMID",
+    "type": "Framework",
+    "label": "Pyramid Principle",
+    "properties": {
+      "author": "Barbara Minto",
+      "year": 1973,
+      "domain_tags": [
+        "consulting",
+        "communication"
+      ]
+    }
+  },
+  {
+    "id": "FW-MCKINSEY-PS",
+    "type": "Framework",
+    "label": "McKinsey Problem Solving",
+    "properties": {
+      "origin": "McKinsey & Company",
+      "domain_tags": [
+        "consulting"
+      ]
+    }
+  },
+  {
+    "id": "FW-5WHY",
+    "type": "Framework",
+    "label": "5 Whys",
+    "properties": {
+      "origin": "Toyota",
+      "domain_tags": [
+        "operations",
+        "quality"
+      ]
+    }
+  },
+  {
+    "id": "FW-FISHBONE",
+    "type": "Framework",
+    "label": "Fishbone Diagram (Ishikawa)",
+    "properties": {
+      "domain_tags": [
+        "quality",
+        "operations"
+      ]
+    }
+  },
+  {
+    "id": "FW-PDCA",
+    "type": "Framework",
+    "label": "PDCA Cycle (Plan-Do-Check-Act)",
+    "properties": {
+      "domain_tags": [
+        "quality",
+        "operations"
+      ]
+    }
+  },
+  {
+    "id": "FW-JTBD",
+    "type": "Framework",
+    "label": "Jobs-to-be-Done (JTBD)",
+    "properties": {
+      "domain_tags": [
+        "marketing",
+        "product"
+      ]
+    }
+  },
+  {
+    "id": "FW-NPS",
+    "type": "Framework",
+    "label": "Net Promoter Score (NPS)",
+    "properties": {
+      "domain_tags": [
+        "crm",
+        "marketing"
+      ]
+    }
+  },
+  {
+    "id": "LAW-DN-2020",
+    "type": "Law",
+    "label": "Luật Doanh Nghiệp 2020",
+    "properties": {
+      "number": "59/2020/QH14",
+      "jurisdiction": "VN",
+      "effective_date": "2021-01-01",
+      "domain_tags": [
+        "corporate",
+        "governance"
+      ]
+    }
+  },
+  {
+    "id": "LAW-BLLĐ-2019",
+    "type": "Law",
+    "label": "Bộ Luật Lao Động 2019",
+    "properties": {
+      "number": "45/2019/QH14",
+      "jurisdiction": "VN",
+      "effective_date": "2021-01-01",
+      "domain_tags": [
+        "hr",
+        "labor"
+      ]
+    }
+  },
+  {
+    "id": "LAW-ĐT-2020",
+    "type": "Law",
+    "label": "Luật Đầu Tư 2020",
+    "properties": {
+      "number": "61/2020/QH14",
+      "jurisdiction": "VN",
+      "effective_date": "2021-01-01",
+      "domain_tags": [
+        "investment",
+        "fdi"
+      ]
+    }
+  },
+  {
+    "id": "LAW-TM-2005",
+    "type": "Law",
+    "label": "Luật Thương Mại 2005",
+    "properties": {
+      "number": "36/2005/QH11",
+      "jurisdiction": "VN",
+      "effective_date": "2006-01-01",
+      "domain_tags": [
+        "commercial",
+        "contract"
+      ]
+    }
+  },
+  {
+    "id": "LAW-KT-2015",
+    "type": "Law",
+    "label": "Luật Kế Toán 2015",
+    "properties": {
+      "number": "88/2015/QH13",
+      "jurisdiction": "VN",
+      "effective_date": "2017-01-01",
+      "domain_tags": [
+        "accounting",
+        "finance"
+      ]
+    }
+  },
+  {
+    "id": "LAW-SHTT-2022",
+    "type": "Law",
+    "label": "Luật Sở Hữu Trí Tuệ (sửa đổi 2022)",
+    "properties": {
+      "number": "07/2022/QH15",
+      "jurisdiction": "VN",
+      "effective_date": "2023-01-01",
+      "domain_tags": [
+        "ip",
+        "law"
+      ]
+    }
+  },
+  {
+    "id": "LAW-CT-2018",
+    "type": "Law",
+    "label": "Luật Cạnh Tranh 2018",
+    "properties": {
+      "number": "23/2018/QH14",
+      "jurisdiction": "VN",
+      "effective_date": "2019-07-01",
+      "domain_tags": [
+        "competition",
+        "commercial"
+      ]
+    }
+  },
+  {
+    "id": "LAW-ĐĐ-2024",
+    "type": "Law",
+    "label": "Luật Đất Đai 2024",
+    "properties": {
+      "number": "31/2024/QH15",
+      "jurisdiction": "VN",
+      "effective_date": "2025-01-01",
+      "domain_tags": [
+        "land",
+        "real-estate"
+      ]
+    }
+  },
+  {
+    "id": "LAW-NO-2023",
+    "type": "Law",
+    "label": "Luật Nhà Ở 2023",
+    "properties": {
+      "number": "27/2023/QH15",
+      "jurisdiction": "VN",
+      "effective_date": "2025-01-01",
+      "domain_tags": [
+        "real-estate"
+      ]
+    }
+  },
+  {
+    "id": "LAW-KDBĐS-2023",
+    "type": "Law",
+    "label": "Luật Kinh Doanh Bất Động Sản 2023",
+    "properties": {
+      "number": "29/2023/QH15",
+      "jurisdiction": "VN",
+      "effective_date": "2025-01-01",
+      "domain_tags": [
+        "real-estate"
+      ]
+    }
+  },
+  {
+    "id": "LAW-ĐTH-2023",
+    "type": "Law",
+    "label": "Luật Đấu Thầu 2023",
+    "properties": {
+      "number": "22/2023/QH15",
+      "jurisdiction": "VN",
+      "effective_date": "2024-01-01",
+      "domain_tags": [
+        "procurement",
+        "public"
+      ]
+    }
+  },
+  {
+    "id": "LAW-HQ-2014",
+    "type": "Law",
+    "label": "Luật Hải Quan 2014",
+    "properties": {
+      "number": "54/2014/QH13",
+      "jurisdiction": "VN",
+      "effective_date": "2015-01-01",
+      "domain_tags": [
+        "customs",
+        "logistics"
+      ]
+    }
+  },
+  {
+    "id": "LAW-PPP-2020",
+    "type": "Law",
+    "label": "Luật PPP 2020",
+    "properties": {
+      "number": "64/2020/QH14",
+      "jurisdiction": "VN",
+      "effective_date": "2021-01-01",
+      "domain_tags": [
+        "investment",
+        "infrastructure"
+      ]
+    }
+  },
+  {
+    "id": "LAW-BHXH-2014",
+    "type": "Law",
+    "label": "Luật Bảo Hiểm Xã Hội 2014",
+    "properties": {
+      "number": "58/2014/QH13",
+      "jurisdiction": "VN",
+      "domain_tags": [
+        "hr",
+        "social-insurance"
+      ]
+    }
+  },
+  {
+    "id": "LAW-NĐ13-2023",
+    "type": "Law",
+    "label": "Nghị Định 13/2023/NĐ-CP (Bảo vệ dữ liệu cá nhân)",
+    "properties": {
+      "number": "13/2023/NĐ-CP",
+      "jurisdiction": "VN",
+      "effective_date": "2023-07-01",
+      "domain_tags": [
+        "data",
+        "privacy",
+        "crm"
+      ]
+    }
+  },
+  {
+    "id": "LAW-TT200-2014",
+    "type": "Law",
+    "label": "Thông Tư 200/2014/TT-BTC (Chế độ kế toán DN)",
+    "properties": {
+      "number": "200/2014/TT-BTC",
+      "jurisdiction": "VN",
+      "effective_date": "2015-01-01",
+      "domain_tags": [
+        "accounting",
+        "finance"
+      ]
+    }
+  },
+  {
+    "id": "LAW-TT48-2019",
+    "type": "Law",
+    "label": "Thông Tư 48/2019/TT-BTC (Trích lập dự phòng)",
+    "properties": {
+      "number": "48/2019/TT-BTC",
+      "jurisdiction": "VN",
+      "domain_tags": [
+        "accounting"
+      ]
+    }
+  },
+  {
+    "id": "LAW-THUETNDN",
+    "type": "Law",
+    "label": "Luật Thuế Thu Nhập Doanh Nghiệp (CIT)",
+    "properties": {
+      "number": "14/2008/QH12",
+      "jurisdiction": "VN",
+      "domain_tags": [
+        "tax",
+        "finance"
+      ]
+    }
+  },
+  {
+    "id": "LAW-THUEGTGT",
+    "type": "Law",
+    "label": "Luật Thuế Giá Trị Gia Tăng (VAT)",
+    "properties": {
+      "number": "13/2008/QH12",
+      "jurisdiction": "VN",
+      "domain_tags": [
+        "tax"
+      ]
+    }
+  },
+  {
+    "id": "LAW-THUETNCN",
+    "type": "Law",
+    "label": "Luật Thuế Thu Nhập Cá Nhân (PIT)",
+    "properties": {
+      "number": "04/2007/QH12",
+      "jurisdiction": "VN",
+      "domain_tags": [
+        "tax",
+        "hr"
+      ]
+    }
+  },
+  {
+    "id": "LAW-TATM-2010",
+    "type": "Law",
+    "label": "Luật Trọng Tài Thương Mại 2010",
+    "properties": {
+      "number": "54/2010/QH12",
+      "jurisdiction": "VN",
+      "domain_tags": [
+        "dispute",
+        "commercial"
+      ]
+    }
+  },
+  {
+    "id": "LAW-BLDS-2015",
+    "type": "Law",
+    "label": "Bộ Luật Dân Sự 2015",
+    "properties": {
+      "number": "91/2015/QH13",
+      "jurisdiction": "VN",
+      "domain_tags": [
+        "civil",
+        "contract"
+      ]
+    }
+  },
+  {
+    "id": "LAW-NĐ145-2020",
+    "type": "Law",
+    "label": "Nghị Định 145/2020/NĐ-CP (Hướng dẫn BLLĐ)",
+    "properties": {
+      "number": "145/2020/NĐ-CP",
+      "jurisdiction": "VN",
+      "domain_tags": [
+        "hr",
+        "labor"
+      ]
+    }
+  },
+  {
+    "id": "LAW-EVFTA",
+    "type": "Law",
+    "label": "EVFTA (EU-Vietnam Free Trade Agreement)",
+    "properties": {
+      "jurisdiction": "International",
+      "effective_date": "2020-08-01",
+      "domain_tags": [
+        "trade",
+        "fta",
+        "logistics"
+      ]
+    }
+  },
+  {
+    "id": "LAW-CPTPP",
+    "type": "Law",
+    "label": "CPTPP (Comprehensive and Progressive Agreement for Trans-Pacific Partnership)",
+    "properties": {
+      "jurisdiction": "International",
+      "effective_date": "2019-01-14",
+      "domain_tags": [
+        "trade",
+        "fta",
+        "logistics"
+      ]
+    }
+  },
+  {
+    "id": "LAW-RCEP",
+    "type": "Law",
+    "label": "RCEP (Regional Comprehensive Economic Partnership)",
+    "properties": {
+      "jurisdiction": "International",
+      "effective_date": "2022-01-01",
+      "domain_tags": [
+        "trade",
+        "fta"
+      ]
+    }
+  },
+  {
+    "id": "LAW-GDPR",
+    "type": "Law",
+    "label": "GDPR (General Data Protection Regulation)",
+    "properties": {
+      "number": "2016/679",
+      "jurisdiction": "EU",
+      "effective_date": "2018-05-25",
+      "domain_tags": [
+        "data",
+        "privacy"
+      ]
+    }
+  },
+  {
+    "id": "STD-IFRS15",
+    "type": "Standard",
+    "label": "IFRS 15 — Revenue from Contracts with Customers",
+    "properties": {
+      "issuing_body": "IASB",
+      "domain_tags": [
+        "accounting",
+        "finance"
+      ]
+    }
+  },
+  {
+    "id": "STD-IFRS16",
+    "type": "Standard",
+    "label": "IFRS 16 — Leases",
+    "properties": {
+      "issuing_body": "IASB",
+      "domain_tags": [
+        "accounting",
+        "finance"
+      ]
+    }
+  },
+  {
+    "id": "STD-IFRS9",
+    "type": "Standard",
+    "label": "IFRS 9 — Financial Instruments",
+    "properties": {
+      "issuing_body": "IASB",
+      "domain_tags": [
+        "accounting",
+        "finance"
+      ]
+    }
+  },
+  {
+    "id": "STD-IFRS17",
+    "type": "Standard",
+    "label": "IFRS 17 — Insurance Contracts",
+    "properties": {
+      "issuing_body": "IASB",
+      "domain_tags": [
+        "accounting",
+        "insurance"
+      ]
+    }
+  },
+  {
+    "id": "STD-GAAP-US",
+    "type": "Standard",
+    "label": "US GAAP",
+    "properties": {
+      "issuing_body": "FASB",
+      "jurisdiction": "US",
+      "domain_tags": [
+        "accounting"
+      ]
+    }
+  },
+  {
+    "id": "STD-VAS",
+    "type": "Standard",
+    "label": "VAS — Chuẩn Mực Kế Toán Việt Nam",
+    "properties": {
+      "issuing_body": "Bộ Tài Chính VN",
+      "jurisdiction": "VN",
+      "domain_tags": [
+        "accounting"
+      ]
+    }
+  },
+  {
+    "id": "STD-ISO9001",
+    "type": "Standard",
+    "label": "ISO 9001 — Quality Management Systems",
+    "properties": {
+      "issuing_body": "ISO",
+      "domain_tags": [
+        "quality",
+        "operations"
+      ]
+    }
+  },
+  {
+    "id": "STD-ISO14001",
+    "type": "Standard",
+    "label": "ISO 14001 — Environmental Management",
+    "properties": {
+      "issuing_body": "ISO",
+      "domain_tags": [
+        "environment",
+        "esg"
+      ]
+    }
+  },
+  {
+    "id": "STD-ISO45001",
+    "type": "Standard",
+    "label": "ISO 45001 — Occupational Health & Safety",
+    "properties": {
+      "issuing_body": "ISO",
+      "domain_tags": [
+        "hr",
+        "safety"
+      ]
+    }
+  },
+  {
+    "id": "STD-ISO56002",
+    "type": "Standard",
+    "label": "ISO 56002 — Innovation Management",
+    "properties": {
+      "issuing_body": "ISO",
+      "domain_tags": [
+        "strategy",
+        "innovation"
+      ]
+    }
+  },
+  {
+    "id": "STD-SOC2",
+    "type": "Standard",
+    "label": "SOC 2 — Service Organization Control",
+    "properties": {
+      "issuing_body": "AICPA",
+      "domain_tags": [
+        "technology",
+        "security"
+      ]
+    }
+  },
+  {
+    "id": "STD-COBIT",
+    "type": "Standard",
+    "label": "COBIT — Control Objectives for Information Technologies",
+    "properties": {
+      "issuing_body": "ISACA",
+      "domain_tags": [
+        "governance",
+        "technology"
+      ]
+    }
+  },
+  {
+    "id": "STD-ITIL",
+    "type": "Standard",
+    "label": "ITIL — IT Infrastructure Library",
+    "properties": {
+      "issuing_body": "Axelos",
+      "domain_tags": [
+        "technology",
+        "operations"
+      ]
+    }
+  },
+  {
+    "id": "STD-GRI",
+    "type": "Standard",
+    "label": "GRI Standards (Global Reporting Initiative)",
+    "properties": {
+      "issuing_body": "GRI",
+      "domain_tags": [
+        "esg",
+        "governance"
+      ]
+    }
+  },
+  {
+    "id": "STD-SASB",
+    "type": "Standard",
+    "label": "SASB Standards",
+    "properties": {
+      "issuing_body": "SASB",
+      "domain_tags": [
+        "esg",
+        "finance"
+      ]
+    }
+  },
+  {
+    "id": "STD-TCFD",
+    "type": "Standard",
+    "label": "TCFD — Task Force on Climate-related Financial Disclosures",
+    "properties": {
+      "issuing_body": "FSB",
+      "domain_tags": [
+        "esg",
+        "finance"
+      ]
+    }
+  },
+  {
+    "id": "STD-VNACCS",
+    "type": "Standard",
+    "label": "VNACCS — Hệ thống thông quan điện tử VN",
+    "properties": {
+      "issuing_body": "Tổng Cục Hải Quan VN",
+      "jurisdiction": "VN",
+      "domain_tags": [
+        "customs",
+        "logistics"
+      ]
+    }
+  },
+  {
+    "id": "STD-TRIPS",
+    "type": "Standard",
+    "label": "TRIPS Agreement (Trade-Related Aspects of Intellectual Property Rights)",
+    "properties": {
+      "issuing_body": "WTO",
+      "jurisdiction": "International",
+      "domain_tags": [
+        "ip",
+        "law"
+      ]
+    }
+  },
+  {
+    "id": "CO-VINAMILK",
+    "type": "Company",
+    "label": "Vinamilk",
+    "properties": {
+      "country": "VN",
+      "industry": "FMCG / Dairy",
+      "type_tag": "public"
+    }
+  },
+  {
+    "id": "CO-MASAN",
+    "type": "Company",
+    "label": "Masan Consumer",
+    "properties": {
+      "country": "VN",
+      "industry": "FMCG"
+    }
+  },
+  {
+    "id": "CO-THACO",
+    "type": "Company",
+    "label": "Thaco (Trường Hải Auto)",
+    "properties": {
+      "country": "VN",
+      "industry": "Automotive / Retail"
+    }
+  },
+  {
+    "id": "CO-VINGROUP",
+    "type": "Company",
+    "label": "Vingroup",
+    "properties": {
+      "country": "VN",
+      "industry": "Conglomerate"
+    }
+  },
+  {
+    "id": "CO-FPT",
+    "type": "Company",
+    "label": "FPT Corporation",
+    "properties": {
+      "country": "VN",
+      "industry": "Technology / IT Services"
+    }
+  },
+  {
+    "id": "CO-VIETTEL",
+    "type": "Company",
+    "label": "Viettel Group",
+    "properties": {
+      "country": "VN",
+      "industry": "Telecommunications"
+    }
+  },
+  {
+    "id": "CO-VNPT",
+    "type": "Company",
+    "label": "VNPT",
+    "properties": {
+      "country": "VN",
+      "industry": "Telecommunications"
+    }
+  },
+  {
+    "id": "CO-VNG",
+    "type": "Company",
+    "label": "VNG Corporation",
+    "properties": {
+      "country": "VN",
+      "industry": "Technology / Gaming"
+    }
+  },
+  {
+    "id": "CO-MOMO",
+    "type": "Company",
+    "label": "MoMo (M_Service)",
+    "properties": {
+      "country": "VN",
+      "industry": "Fintech"
+    }
+  },
+  {
+    "id": "CO-SHOPEE-VN",
+    "type": "Company",
+    "label": "Shopee Vietnam",
+    "properties": {
+      "country": "VN",
+      "industry": "E-commerce"
+    }
+  },
+  {
+    "id": "CO-TIKI",
+    "type": "Company",
+    "label": "Tiki",
+    "properties": {
+      "country": "VN",
+      "industry": "E-commerce"
+    }
+  },
+  {
+    "id": "CO-LAZADA-VN",
+    "type": "Company",
+    "label": "Lazada Vietnam",
+    "properties": {
+      "country": "VN",
+      "industry": "E-commerce"
+    }
+  },
+  {
+    "id": "CO-GRAB-VN",
+    "type": "Company",
+    "label": "Grab Vietnam",
+    "properties": {
+      "country": "VN",
+      "industry": "Super App / Transport"
+    }
+  },
+  {
+    "id": "CO-BE",
+    "type": "Company",
+    "label": "Be Group",
+    "properties": {
+      "country": "VN",
+      "industry": "Transport / Fintech"
+    }
+  },
+  {
+    "id": "CO-GHN",
+    "type": "Company",
+    "label": "Giao Hàng Nhanh (GHN)",
+    "properties": {
+      "country": "VN",
+      "industry": "Logistics"
+    }
+  },
+  {
+    "id": "CO-GHTK",
+    "type": "Company",
+    "label": "Giao Hàng Tiết Kiệm (GHTK)",
+    "properties": {
+      "country": "VN",
+      "industry": "Logistics"
+    }
+  },
+  {
+    "id": "CO-TECHCOMBANK",
+    "type": "Company",
+    "label": "Techcombank",
+    "properties": {
+      "country": "VN",
+      "industry": "Banking"
+    }
+  },
+  {
+    "id": "CO-VPBANK",
+    "type": "Company",
+    "label": "VPBank",
+    "properties": {
+      "country": "VN",
+      "industry": "Banking"
+    }
+  },
+  {
+    "id": "CO-SAMSUNG-VN",
+    "type": "Company",
+    "label": "Samsung Vietnam",
+    "properties": {
+      "country": "KR",
+      "industry": "Electronics / Manufacturing"
+    }
+  },
+  {
+    "id": "CO-INTEL-VN",
+    "type": "Company",
+    "label": "Intel Vietnam",
+    "properties": {
+      "country": "US",
+      "industry": "Semiconductor / Manufacturing"
+    }
+  },
+  {
+    "id": "CO-LG-VN",
+    "type": "Company",
+    "label": "LG Electronics Vietnam",
+    "properties": {
+      "country": "KR",
+      "industry": "Electronics"
+    }
+  },
+  {
+    "id": "CO-APPLE",
+    "type": "Company",
+    "label": "Apple Inc.",
+    "properties": {
+      "country": "US",
+      "industry": "Technology"
+    }
+  },
+  {
+    "id": "CO-GOOGLE",
+    "type": "Company",
+    "label": "Google / Alphabet",
+    "properties": {
+      "country": "US",
+      "industry": "Technology"
+    }
+  },
+  {
+    "id": "CO-AMAZON",
+    "type": "Company",
+    "label": "Amazon",
+    "properties": {
+      "country": "US",
+      "industry": "E-commerce / Cloud"
+    }
+  },
+  {
+    "id": "CO-MICROSOFT",
+    "type": "Company",
+    "label": "Microsoft",
+    "properties": {
+      "country": "US",
+      "industry": "Technology"
+    }
+  },
+  {
+    "id": "CO-SAP",
+    "type": "Company",
+    "label": "SAP SE",
+    "properties": {
+      "country": "DE",
+      "industry": "ERP Software"
+    }
+  },
+  {
+    "id": "CO-SALESFORCE",
+    "type": "Company",
+    "label": "Salesforce",
+    "properties": {
+      "country": "US",
+      "industry": "CRM Software"
+    }
+  },
+  {
+    "id": "CO-HUBSPOT",
+    "type": "Company",
+    "label": "HubSpot",
+    "properties": {
+      "country": "US",
+      "industry": "CRM / Marketing"
+    }
+  },
+  {
+    "id": "CO-ODOO",
+    "type": "Company",
+    "label": "Odoo",
+    "properties": {
+      "country": "BE",
+      "industry": "ERP Software"
+    }
+  },
+  {
+    "id": "CO-MCKINSEYCO",
+    "type": "Company",
+    "label": "McKinsey & Company",
+    "properties": {
+      "country": "US",
+      "industry": "Management Consulting"
+    }
+  },
+  {
+    "id": "CO-BCG",
+    "type": "Company",
+    "label": "Boston Consulting Group (BCG)",
+    "properties": {
+      "country": "US",
+      "industry": "Management Consulting"
+    }
+  },
+  {
+    "id": "CO-DELOITTE",
+    "type": "Company",
+    "label": "Deloitte",
+    "properties": {
+      "country": "US",
+      "industry": "Professional Services"
+    }
+  },
+  {
+    "id": "MOD-F01",
+    "type": "Module",
+    "label": "F01 — Kinh Tế Học Doanh Nghiệp",
+    "properties": {
+      "code": "F01",
+      "name": "Kinh Tế Học Doanh Nghiệp",
+      "domain": "Foundation",
+      "status": "complete",
+      "level": "Foundation",
+      "learning_hours": 8,
+      "tags": [
+        "pricing",
+        "competition",
+        "incentive",
+        "cost-analysis",
+        "strategy"
+      ],
+      "vn_specific": true,
+      "file": "docs/01-foundation/F01-economics/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-DEMAND-SUPPLY",
+    "type": "Framework",
+    "label": "Demand-Supply",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-GAME-THEORY",
+    "type": "Framework",
+    "label": "Game Theory",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-PRINCIPAL-AGENT",
+    "type": "Framework",
+    "label": "Principal-Agent",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-COSO",
+    "type": "Framework",
+    "label": "COSO",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-F02",
+    "type": "Module",
+    "label": "F02 — Kế Toán Căn Bản",
+    "properties": {
+      "code": "F02",
+      "name": "Kế Toán Căn Bản",
+      "domain": "Foundation",
+      "status": "complete",
+      "level": "Foundation",
+      "learning_hours": 10,
+      "tags": [
+        "accounting",
+        "bookkeeping",
+        "financial-statements",
+        "VAS",
+        "double-entry"
+      ],
+      "vn_specific": true,
+      "file": "docs/01-foundation/F02-accounting-basics/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-DOUBLE-ENTRY",
+    "type": "Framework",
+    "label": "Double-Entry",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-ACCRUAL-ACCOUNTING",
+    "type": "Framework",
+    "label": "Accrual Accounting",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-F03",
+    "type": "Module",
+    "label": "F03 — Tài Chính Căn Bản",
+    "properties": {
+      "code": "F03",
+      "name": "Tài Chính Căn Bản",
+      "domain": "Foundation",
+      "status": "complete",
+      "level": "Foundation",
+      "learning_hours": 12,
+      "tags": [
+        "NPV",
+        "IRR",
+        "WACC",
+        "ratio-analysis",
+        "valuation",
+        "TVM",
+        "DCF"
+      ],
+      "vn_specific": true,
+      "file": "docs/01-foundation/F03-finance-basics/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-DUPONT",
+    "type": "Framework",
+    "label": "DuPont",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-CAPM",
+    "type": "Framework",
+    "label": "CAPM",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-3-STATEMENT-MODEL",
+    "type": "Framework",
+    "label": "3-Statement Model",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-F04",
+    "type": "Module",
+    "label": "F04 — Thống Kê Ứng Dụng",
+    "properties": {
+      "code": "F04",
+      "name": "Thống Kê Ứng Dụng",
+      "domain": "Foundation",
+      "status": "complete",
+      "level": "Foundation",
+      "learning_hours": 8,
+      "tags": [
+        "statistics",
+        "data-analysis",
+        "A/B-test",
+        "forecasting",
+        "regression",
+        "hypothesis-testing"
+      ],
+      "vn_specific": true,
+      "file": "docs/01-foundation/F04-statistics/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-CRISP-DM",
+    "type": "Framework",
+    "label": "CRISP-DM",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-HYPOTHESIS-TESTING",
+    "type": "Framework",
+    "label": "Hypothesis Testing",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-REGRESSION",
+    "type": "Framework",
+    "label": "Regression",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-SPC",
+    "type": "Framework",
+    "label": "SPC",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-F05",
+    "type": "Module",
+    "label": "F05 — Quản Trị Học",
+    "properties": {
+      "code": "F05",
+      "name": "Quản Trị Học",
+      "domain": "Foundation",
+      "status": "complete",
+      "level": "Foundation",
+      "learning_hours": 8,
+      "tags": [
+        "management",
+        "leadership",
+        "OKR",
+        "organization-design",
+        "motivation",
+        "PDCA"
+      ],
+      "vn_specific": true,
+      "file": "docs/01-foundation/F05-management/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-POLC",
+    "type": "Framework",
+    "label": "POLC",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-SITUATIONAL-LEADERSHIP",
+    "type": "Framework",
+    "label": "Situational Leadership",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-MASLOW",
+    "type": "Framework",
+    "label": "Maslow",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-F06",
+    "type": "Module",
+    "label": "F06 — Hành Vi Tổ Chức",
+    "properties": {
+      "code": "F06",
+      "name": "Hành Vi Tổ Chức",
+      "domain": "Foundation",
+      "status": "complete",
+      "level": "Foundation",
+      "learning_hours": 8,
+      "tags": [
+        "culture",
+        "change-management",
+        "team-dynamics",
+        "motivation",
+        "psychological-safety",
+        "conflict"
+      ],
+      "vn_specific": true,
+      "file": "docs/01-foundation/F06-organizational-behavior/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-TUCKMAN",
+    "type": "Framework",
+    "label": "Tuckman",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-KOTTER",
+    "type": "Framework",
+    "label": "Kotter",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-ADKAR",
+    "type": "Framework",
+    "label": "ADKAR",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-HOFSTEDE",
+    "type": "Framework",
+    "label": "Hofstede",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-COMPETING-VALUES",
+    "type": "Framework",
+    "label": "Competing Values",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-THOMAS-KILMANN",
+    "type": "Framework",
+    "label": "Thomas-Kilmann",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-B01",
+    "type": "Module",
+    "label": "B01 — Business Model",
+    "properties": {
+      "code": "B01",
+      "name": "Business Model",
+      "domain": "Business",
+      "status": "complete",
+      "level": "Foundation-Intermediate",
+      "learning_hours": 10,
+      "tags": [
+        "business-model",
+        "BMC",
+        "unit-economics",
+        "revenue-model",
+        "LTV",
+        "CAC",
+        "marketplace",
+        "SaaS"
+      ],
+      "vn_specific": true,
+      "file": "docs/02-business/B01-business-model/README.md"
+    }
+  },
+  {
+    "id": "MOD-B02",
+    "type": "Module",
+    "label": "B02 — Business Architecture",
+    "properties": {
+      "code": "B02",
+      "name": "Business Architecture",
+      "domain": "Business",
+      "status": "complete",
+      "level": "Intermediate-Advanced",
+      "learning_hours": 12,
+      "tags": [
+        "business-architecture",
+        "capability-map",
+        "value-chain",
+        "TOGAF",
+        "operating-model",
+        "process-architecture"
+      ],
+      "vn_specific": true,
+      "file": "docs/02-business/B02-business-architecture/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-TOGAF",
+    "type": "Framework",
+    "label": "TOGAF",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-PORTER-VALUE-CHAIN",
+    "type": "Framework",
+    "label": "Porter Value Chain",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-APQC-PCF",
+    "type": "Framework",
+    "label": "APQC PCF",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-ARCHIMATE",
+    "type": "Framework",
+    "label": "ArchiMate",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-B03",
+    "type": "Module",
+    "label": "B03 — Corporate Governance Intro",
+    "properties": {
+      "code": "B03",
+      "name": "Corporate Governance Intro",
+      "domain": "Business",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": 8,
+      "tags": [
+        "governance",
+        "board",
+        "HDQT",
+        "DOA",
+        "conflict-of-interest",
+        "fiduciary-duty",
+        "compliance"
+      ],
+      "vn_specific": true,
+      "file": "docs/02-business/B03-corporate-governance-intro/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-OECD-GOVERNANCE-PRINCIPLES",
+    "type": "Framework",
+    "label": "OECD Governance Principles",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-KING-IV",
+    "type": "Framework",
+    "label": "King IV",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-CADBURY-REPORT",
+    "type": "Framework",
+    "label": "Cadbury Report",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-S01",
+    "type": "Module",
+    "label": "S01 — Corporate Strategy",
+    "properties": {
+      "code": "S01",
+      "name": "Corporate Strategy",
+      "domain": "Strategy",
+      "status": "complete",
+      "level": "Intermediate-Advanced",
+      "learning_hours": 12,
+      "tags": [
+        "strategy",
+        "competitive-advantage",
+        "SWOT",
+        "BCG",
+        "Porter",
+        "VRIO",
+        "corporate-strategy"
+      ],
+      "vn_specific": true,
+      "file": "docs/03-strategy/S01-corporate-strategy/README.md"
+    }
+  },
+  {
+    "id": "MOD-S02",
+    "type": "Module",
+    "label": "S02 — OKR — Objectives & Key Results",
+    "properties": {
+      "code": "S02",
+      "name": "OKR — Objectives & Key Results",
+      "domain": "Strategy",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": 8,
+      "tags": [
+        "OKR",
+        "objectives",
+        "key-results",
+        "goal-setting",
+        "strategy-execution"
+      ],
+      "vn_specific": true,
+      "file": "docs/03-strategy/S02-okr/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-CFR",
+    "type": "Framework",
+    "label": "CFR",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-4DX",
+    "type": "Framework",
+    "label": "4DX",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-HOSHIN-KANRI",
+    "type": "Framework",
+    "label": "Hoshin Kanri",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-S03",
+    "type": "Module",
+    "label": "S03 — Balanced Scorecard",
+    "properties": {
+      "code": "S03",
+      "name": "Balanced Scorecard",
+      "domain": "Strategy",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": 10,
+      "tags": [
+        "BSC",
+        "balanced-scorecard",
+        "KPI",
+        "strategy-map",
+        "performance-management"
+      ],
+      "vn_specific": true,
+      "file": "docs/03-strategy/S03-balanced-scorecard/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-STRATEGY-MAPS",
+    "type": "Framework",
+    "label": "Strategy Maps",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-KPI-FRAMEWORK",
+    "type": "Framework",
+    "label": "KPI Framework",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-MK01",
+    "type": "Module",
+    "label": "MK01 — Marketing",
+    "properties": {
+      "code": "MK01",
+      "name": "Marketing",
+      "domain": "Marketing",
+      "status": "complete",
+      "level": "Foundation-Intermediate",
+      "learning_hours": 10,
+      "tags": [
+        "marketing",
+        "STP",
+        "4Ps",
+        "digital-marketing",
+        "CAC",
+        "customer-journey"
+      ],
+      "vn_specific": true,
+      "file": "docs/04-marketing/MK01-marketing/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-SOSTAC",
+    "type": "Framework",
+    "label": "SOSTAC",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-CUSTOMER-JOURNEY",
+    "type": "Framework",
+    "label": "Customer Journey",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-MK02",
+    "type": "Module",
+    "label": "MK02 — Branding",
+    "properties": {
+      "code": "MK02",
+      "name": "Branding",
+      "domain": "Marketing",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": 8,
+      "tags": [
+        "branding",
+        "brand-equity",
+        "brand-identity",
+        "NPS",
+        "brand-architecture"
+      ],
+      "vn_specific": true,
+      "file": "docs/04-marketing/MK02-branding/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-BRAND-EQUITY-AAKER",
+    "type": "Framework",
+    "label": "Brand Equity Aaker",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-STORYBRAND",
+    "type": "Framework",
+    "label": "StoryBrand",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-BRAND-ARCHETYPES",
+    "type": "Framework",
+    "label": "Brand Archetypes",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-MK03",
+    "type": "Module",
+    "label": "MK03 — Growth Marketing",
+    "properties": {
+      "code": "MK03",
+      "name": "Growth Marketing",
+      "domain": "Marketing",
+      "status": "complete",
+      "level": "Intermediate-Advanced",
+      "learning_hours": 10,
+      "tags": [
+        "growth",
+        "AARRR",
+        "A/B-testing",
+        "retention",
+        "viral",
+        "growth-hacking",
+        "PLG"
+      ],
+      "vn_specific": true,
+      "file": "docs/04-marketing/MK03-growth/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-GROWTH-LOOPS",
+    "type": "Framework",
+    "label": "Growth Loops",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-PLG",
+    "type": "Framework",
+    "label": "PLG",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-VIRAL-COEFFICIENT",
+    "type": "Framework",
+    "label": "Viral Coefficient",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-MK04",
+    "type": "Module",
+    "label": "MK04 — Customer Success",
+    "properties": {
+      "code": "MK04",
+      "name": "Customer Success",
+      "domain": "Marketing",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": 8,
+      "tags": [
+        "customer-success",
+        "NRR",
+        "churn",
+        "onboarding",
+        "health-score",
+        "retention"
+      ],
+      "vn_specific": true,
+      "file": "docs/04-marketing/MK04-customer-success/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-NRR",
+    "type": "Framework",
+    "label": "NRR",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-QBR",
+    "type": "Framework",
+    "label": "QBR",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-ONBOARDING-FRAMEWORK",
+    "type": "Framework",
+    "label": "Onboarding Framework",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-MK05",
+    "type": "Module",
+    "label": "MK05 — Product Management",
+    "properties": {
+      "code": "MK05",
+      "name": "Product Management",
+      "domain": "Marketing",
+      "status": "complete",
+      "level": "Intermediate-Advanced",
+      "learning_hours": 12,
+      "tags": [
+        "product-management",
+        "PM",
+        "agile",
+        "scrum",
+        "MVP",
+        "product-market-fit",
+        "RICE",
+        "roadmap"
+      ],
+      "vn_specific": true,
+      "file": "docs/04-marketing/MK05-product-management/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-RICE",
+    "type": "Framework",
+    "label": "RICE",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-DESIGN-THINKING",
+    "type": "Framework",
+    "label": "Design Thinking",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-SA01",
+    "type": "Module",
+    "label": "SA01 — Sales Fundamentals",
+    "properties": {
+      "code": "SA01",
+      "name": "Sales Fundamentals",
+      "domain": "Sales",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/05-sales/SA01-sales-fundamentals/README.md"
+    }
+  },
+  {
+    "id": "MOD-SA02",
+    "type": "Module",
+    "label": "SA02 — B2B Sales",
+    "properties": {
+      "code": "SA02",
+      "name": "B2B Sales",
+      "domain": "Sales",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/05-sales/SA02-b2b-sales/README.md"
+    }
+  },
+  {
+    "id": "MOD-SA03",
+    "type": "Module",
+    "label": "SA03 — B2C Sales",
+    "properties": {
+      "code": "SA03",
+      "name": "B2C Sales",
+      "domain": "Sales",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/05-sales/SA03-b2c-sales/README.md"
+    }
+  },
+  {
+    "id": "MOD-SA04",
+    "type": "Module",
+    "label": "SA04 — Channel & Distribution",
+    "properties": {
+      "code": "SA04",
+      "name": "Channel & Distribution",
+      "domain": "Sales",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/05-sales/SA04-channel-distribution/README.md"
+    }
+  },
+  {
+    "id": "MOD-SA05",
+    "type": "Module",
+    "label": "SA05 — Pricing Strategy",
+    "properties": {
+      "code": "SA05",
+      "name": "Pricing Strategy",
+      "domain": "Sales",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/05-sales/SA05-pricing/README.md"
+    }
+  },
+  {
+    "id": "MOD-SA06",
+    "type": "Module",
+    "label": "SA06 — CRM Process & Pipeline",
+    "properties": {
+      "code": "SA06",
+      "name": "CRM Process & Pipeline",
+      "domain": "Sales",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/05-sales/SA06-crm-process/README.md"
+    }
+  },
+  {
+    "id": "MOD-FI01",
+    "type": "Module",
+    "label": "FI01 — Financial Management",
+    "properties": {
+      "code": "FI01",
+      "name": "Financial Management",
+      "domain": "Finance",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/06-finance/FI01-financial-management/README.md"
+    }
+  },
+  {
+    "id": "MOD-FI02",
+    "type": "Module",
+    "label": "FI02 — Cash Flow Management",
+    "properties": {
+      "code": "FI02",
+      "name": "Cash Flow Management",
+      "domain": "Finance",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/06-finance/FI02-cash-flow/README.md"
+    }
+  },
+  {
+    "id": "MOD-FI03",
+    "type": "Module",
+    "label": "FI03 — Investment Analysis",
+    "properties": {
+      "code": "FI03",
+      "name": "Investment Analysis",
+      "domain": "Finance",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/06-finance/FI03-investment/README.md"
+    }
+  },
+  {
+    "id": "MOD-FI04",
+    "type": "Module",
+    "label": "FI04 — Business Valuation",
+    "properties": {
+      "code": "FI04",
+      "name": "Business Valuation",
+      "domain": "Finance",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/06-finance/FI04-valuation/README.md"
+    }
+  },
+  {
+    "id": "MOD-FI05",
+    "type": "Module",
+    "label": "FI05 — Budgeting & Cost Management",
+    "properties": {
+      "code": "FI05",
+      "name": "Budgeting & Cost Management",
+      "domain": "Finance",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/06-finance/FI05-budgeting-cost/README.md"
+    }
+  },
+  {
+    "id": "MOD-FI06",
+    "type": "Module",
+    "label": "FI06 — Treasury Management",
+    "properties": {
+      "code": "FI06",
+      "name": "Treasury Management",
+      "domain": "Finance",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/06-finance/FI06-treasury/README.md"
+    }
+  },
+  {
+    "id": "MOD-AC01",
+    "type": "Module",
+    "label": "AC01 — Accounting Fundamentals",
+    "properties": {
+      "code": "AC01",
+      "name": "Accounting Fundamentals",
+      "domain": "Accounting",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/07-accounting/AC01-accounting-fundamentals/README.md"
+    }
+  },
+  {
+    "id": "MOD-AC02",
+    "type": "Module",
+    "label": "AC02 — Financial Statements",
+    "properties": {
+      "code": "AC02",
+      "name": "Financial Statements",
+      "domain": "Accounting",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/07-accounting/AC02-financial-statements/README.md"
+    }
+  },
+  {
+    "id": "MOD-AC03",
+    "type": "Module",
+    "label": "AC03 — Cost Accounting",
+    "properties": {
+      "code": "AC03",
+      "name": "Cost Accounting",
+      "domain": "Accounting",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/07-accounting/AC03-cost-accounting/README.md"
+    }
+  },
+  {
+    "id": "MOD-AC04",
+    "type": "Module",
+    "label": "AC04 — IFRS / GAAP / VAS",
+    "properties": {
+      "code": "AC04",
+      "name": "IFRS / GAAP / VAS",
+      "domain": "Accounting",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/07-accounting/AC04-ifrs-gaap-vas/README.md"
+    }
+  },
+  {
+    "id": "MOD-LW01",
+    "type": "Module",
+    "label": "LW01 — Corporate Law",
+    "properties": {
+      "code": "LW01",
+      "name": "Corporate Law",
+      "domain": "Law",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/08-law/LW01-corporate-law/README.md"
+    }
+  },
+  {
+    "id": "MOD-LW02",
+    "type": "Module",
+    "label": "LW02 — Luật Đầu Tư",
+    "properties": {
+      "code": "LW02",
+      "name": "Luật Đầu Tư",
+      "domain": "Law",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/08-law/LW02-investment-law/README.md"
+    }
+  },
+  {
+    "id": "MOD-LW03",
+    "type": "Module",
+    "label": "LW03 — Luật Thương Mại",
+    "properties": {
+      "code": "LW03",
+      "name": "Luật Thương Mại",
+      "domain": "Law",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/08-law/LW03-commercial-law/README.md"
+    }
+  },
+  {
+    "id": "MOD-LW04",
+    "type": "Module",
+    "label": "LW04 — Luật Lao Động",
+    "properties": {
+      "code": "LW04",
+      "name": "Luật Lao Động",
+      "domain": "Law",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/08-law/LW04-labor-law/README.md"
+    }
+  },
+  {
+    "id": "MOD-LW05",
+    "type": "Module",
+    "label": "LW05 — Sở Hữu Trí Tuệ",
+    "properties": {
+      "code": "LW05",
+      "name": "Sở Hữu Trí Tuệ",
+      "domain": "Law",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/08-law/LW05-intellectual-property/README.md"
+    }
+  },
+  {
+    "id": "MOD-LW06",
+    "type": "Module",
+    "label": "LW06 — Luật Đất Đai & BĐS",
+    "properties": {
+      "code": "LW06",
+      "name": "Luật Đất Đai & BĐS",
+      "domain": "Law",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/08-law/LW06-land-real-estate/README.md"
+    }
+  },
+  {
+    "id": "MOD-TX01",
+    "type": "Module",
+    "label": "TX01 — Thuế Căn Bản",
+    "properties": {
+      "code": "TX01",
+      "name": "Thuế Căn Bản",
+      "domain": "Tax",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/09-tax/TX01-tax-fundamentals/README.md"
+    }
+  },
+  {
+    "id": "MOD-TX02",
+    "type": "Module",
+    "label": "TX02 — Thuế TNDN",
+    "properties": {
+      "code": "TX02",
+      "name": "Thuế TNDN",
+      "domain": "Tax",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/09-tax/TX02-corporate-income-tax/README.md"
+    }
+  },
+  {
+    "id": "MOD-TX03",
+    "type": "Module",
+    "label": "TX03 — Thuế GTGT",
+    "properties": {
+      "code": "TX03",
+      "name": "Thuế GTGT",
+      "domain": "Tax",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/09-tax/TX03-vat/README.md"
+    }
+  },
+  {
+    "id": "MOD-TX04",
+    "type": "Module",
+    "label": "TX04 — Thuế TNCN",
+    "properties": {
+      "code": "TX04",
+      "name": "Thuế TNCN",
+      "domain": "Tax",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/09-tax/TX04-personal-income-tax/README.md"
+    }
+  },
+  {
+    "id": "MOD-TX05",
+    "type": "Module",
+    "label": "TX05 — Thuế Quốc Tế",
+    "properties": {
+      "code": "TX05",
+      "name": "Thuế Quốc Tế",
+      "domain": "Tax",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/09-tax/TX05-international-tax/README.md"
+    }
+  },
+  {
+    "id": "MOD-HR01",
+    "type": "Module",
+    "label": "HR01 — Tuyển Dụng",
+    "properties": {
+      "code": "HR01",
+      "name": "Tuyển Dụng",
+      "domain": "HR",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/10-hr/HR01-recruitment/README.md"
+    }
+  },
+  {
+    "id": "MOD-HR02",
+    "type": "Module",
+    "label": "HR02 — Tiền Lương & Phúc Lợi",
+    "properties": {
+      "code": "HR02",
+      "name": "Tiền Lương & Phúc Lợi",
+      "domain": "HR",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/10-hr/HR02-payroll/README.md"
+    }
+  },
+  {
+    "id": "MOD-HR03",
+    "type": "Module",
+    "label": "HR03 — Quản Lý Hiệu Suất",
+    "properties": {
+      "code": "HR03",
+      "name": "Quản Lý Hiệu Suất",
+      "domain": "HR",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/10-hr/HR03-performance-management/README.md"
+    }
+  },
+  {
+    "id": "MOD-HR04",
+    "type": "Module",
+    "label": "HR04 — Đào Tạo & Phát Triển",
+    "properties": {
+      "code": "HR04",
+      "name": "Đào Tạo & Phát Triển",
+      "domain": "HR",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/10-hr/HR04-learning-development/README.md"
+    }
+  },
+  {
+    "id": "MOD-HR05",
+    "type": "Module",
+    "label": "HR05 — Thiết Kế Tổ Chức",
+    "properties": {
+      "code": "HR05",
+      "name": "Thiết Kế Tổ Chức",
+      "domain": "HR",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/10-hr/HR05-organization-design/README.md"
+    }
+  },
+  {
+    "id": "MOD-OP01",
+    "type": "Module",
+    "label": "OP01 — Business Process Management",
+    "properties": {
+      "code": "OP01",
+      "name": "Business Process Management",
+      "domain": "Operations",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/11-operations/OP01-bpm/README.md"
+    }
+  },
+  {
+    "id": "MOD-OP02",
+    "type": "Module",
+    "label": "OP02 — SOP — Standard Operating Procedures",
+    "properties": {
+      "code": "OP02",
+      "name": "SOP — Standard Operating Procedures",
+      "domain": "Operations",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/11-operations/OP02-sop/README.md"
+    }
+  },
+  {
+    "id": "MOD-OP03",
+    "type": "Module",
+    "label": "OP03 — KPI Design & Management",
+    "properties": {
+      "code": "OP03",
+      "name": "KPI Design & Management",
+      "domain": "Operations",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/11-operations/OP03-kpi/README.md"
+    }
+  },
+  {
+    "id": "MOD-OP04",
+    "type": "Module",
+    "label": "OP04 — Project Management",
+    "properties": {
+      "code": "OP04",
+      "name": "Project Management",
+      "domain": "Operations",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/11-operations/OP04-project-management/README.md"
+    }
+  },
+  {
+    "id": "MOD-OP05",
+    "type": "Module",
+    "label": "OP05 — Business Analysis",
+    "properties": {
+      "code": "OP05",
+      "name": "Business Analysis",
+      "domain": "Operations",
+      "status": "complete",
+      "level": "Intermediate-Advanced",
+      "learning_hours": 10,
+      "tags": [
+        "business-analysis",
+        "BA",
+        "requirements",
+        "gap-analysis",
+        "business-case",
+        "use-cases"
+      ],
+      "vn_specific": true,
+      "file": "docs/11-operations/OP05-business-analysis/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-USE-CASES",
+    "type": "Framework",
+    "label": "Use Cases",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-UML",
+    "type": "Framework",
+    "label": "UML",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-GAP-ANALYSIS",
+    "type": "Framework",
+    "label": "Gap Analysis",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-LG01",
+    "type": "Module",
+    "label": "LG01 — Logistics Management",
+    "properties": {
+      "code": "LG01",
+      "name": "Logistics Management",
+      "domain": "Logistics",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": 8,
+      "tags": [
+        "logistics",
+        "transportation",
+        "3PL",
+        "last-mile",
+        "freight",
+        "supply-chain"
+      ],
+      "vn_specific": true,
+      "file": "docs/12-logistics/LG01-logistics/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-TOTAL-LOGISTICS-COST",
+    "type": "Framework",
+    "label": "Total Logistics Cost",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-LG02",
+    "type": "Module",
+    "label": "LG02 — Supply Chain Management",
+    "properties": {
+      "code": "LG02",
+      "name": "Supply Chain Management",
+      "domain": "Logistics",
+      "status": "complete",
+      "level": "Intermediate-Advanced",
+      "learning_hours": 10,
+      "tags": [
+        "supply-chain",
+        "SCM",
+        "S&OP",
+        "demand-planning",
+        "SCOR",
+        "logistics"
+      ],
+      "vn_specific": true,
+      "file": "docs/12-logistics/LG02-supply-chain/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-IBP",
+    "type": "Framework",
+    "label": "IBP",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-CPFR",
+    "type": "Framework",
+    "label": "CPFR",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-LG03",
+    "type": "Module",
+    "label": "LG03 — Export-Import Management",
+    "properties": {
+      "code": "LG03",
+      "name": "Export-Import Management",
+      "domain": "Logistics",
+      "status": "complete",
+      "level": "Intermediate-Advanced",
+      "learning_hours": 12,
+      "tags": [
+        "export",
+        "import",
+        "Incoterms",
+        "customs",
+        "FTA",
+        "L/C",
+        "C/O",
+        "trade-compliance"
+      ],
+      "vn_specific": true,
+      "file": "docs/12-logistics/LG03-export-import/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-UCP-600",
+    "type": "Framework",
+    "label": "UCP 600",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-WCO-HS",
+    "type": "Framework",
+    "label": "WCO HS",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-LG04",
+    "type": "Module",
+    "label": "LG04 — Warehouse Management",
+    "properties": {
+      "code": "LG04",
+      "name": "Warehouse Management",
+      "domain": "Logistics",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": 8,
+      "tags": [
+        "warehouse",
+        "WMS",
+        "inventory",
+        "picking",
+        "cold-chain",
+        "e-commerce",
+        "fulfillment"
+      ],
+      "vn_specific": true,
+      "file": "docs/12-logistics/LG04-warehouse/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-5S",
+    "type": "Framework",
+    "label": "5S",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-FEFO-FIFO",
+    "type": "Framework",
+    "label": "FEFO/FIFO",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-MF01",
+    "type": "Module",
+    "label": "MF01 — Manufacturing Management",
+    "properties": {
+      "code": "MF01",
+      "name": "Manufacturing Management",
+      "domain": "Manufacturing",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/13-manufacturing/MF01-manufacturing/README.md"
+    }
+  },
+  {
+    "id": "MOD-MF02",
+    "type": "Module",
+    "label": "MF02 — Lean Manufacturing",
+    "properties": {
+      "code": "MF02",
+      "name": "Lean Manufacturing",
+      "domain": "Manufacturing",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/13-manufacturing/MF02-lean/README.md"
+    }
+  },
+  {
+    "id": "MOD-MF03",
+    "type": "Module",
+    "label": "MF03 — Six Sigma",
+    "properties": {
+      "code": "MF03",
+      "name": "Six Sigma",
+      "domain": "Manufacturing",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/13-manufacturing/MF03-six-sigma/README.md"
+    }
+  },
+  {
+    "id": "MOD-MF04",
+    "type": "Module",
+    "label": "MF04 — MES (Manufacturing Execution System)",
+    "properties": {
+      "code": "MF04",
+      "name": "MES (Manufacturing Execution System)",
+      "domain": "Manufacturing",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/13-manufacturing/MF04-mes/README.md"
+    }
+  },
+  {
+    "id": "MOD-MF05",
+    "type": "Module",
+    "label": "MF05 — Inventory Management",
+    "properties": {
+      "code": "MF05",
+      "name": "Inventory Management",
+      "domain": "Manufacturing",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": 10,
+      "tags": [
+        "inventory",
+        "EOQ",
+        "safety-stock",
+        "ABC-analysis",
+        "FIFO",
+        "VAS02",
+        "inventory-turns"
+      ],
+      "vn_specific": true,
+      "file": "docs/13-manufacturing/MF05-inventory/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-SAFETY-STOCK",
+    "type": "Framework",
+    "label": "Safety Stock",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-MIN-MAX",
+    "type": "Framework",
+    "label": "Min-Max",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-VMI",
+    "type": "Framework",
+    "label": "VMI",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-MF06",
+    "type": "Module",
+    "label": "MF06 — Procurement Management",
+    "properties": {
+      "code": "MF06",
+      "name": "Procurement Management",
+      "domain": "Manufacturing",
+      "status": "complete",
+      "level": "Intermediate-Advanced",
+      "learning_hours": 10,
+      "tags": [
+        "procurement",
+        "purchasing",
+        "Kraljic",
+        "RFQ",
+        "RFP",
+        "SRM",
+        "category-management",
+        "dau-thau"
+      ],
+      "vn_specific": true,
+      "file": "docs/13-manufacturing/MF06-procurement/README.md"
+    }
+  },
+  {
+    "id": "FW-ADHOC-STRATEGIC-SOURCING-7-STEP",
+    "type": "Framework",
+    "label": "Strategic Sourcing 7-step",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-CATEGORY-MANAGEMENT",
+    "type": "Framework",
+    "label": "Category Management",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "FW-ADHOC-TCO",
+    "type": "Framework",
+    "label": "TCO",
+    "properties": {
+      "adhoc": true
+    }
+  },
+  {
+    "id": "MOD-ERP01",
+    "type": "Module",
+    "label": "ERP01 — ERP Fundamentals",
+    "properties": {
+      "code": "ERP01",
+      "name": "ERP Fundamentals",
+      "domain": "ERP",
+      "status": "complete",
+      "level": "Foundation",
+      "learning_hours": null,
+      "tags": [
+        "erp",
+        "enterprise-software",
+        "implementation",
+        "sap",
+        "fundamentals"
+      ],
+      "vn_specific": false,
+      "file": "docs/14-erp/ERP01-erp-fundamentals/README.md"
+    }
+  },
+  {
+    "id": "MOD-ERP02",
+    "type": "Module",
+    "label": "ERP02 — SAP",
+    "properties": {
+      "code": "ERP02",
+      "name": "SAP",
+      "domain": "ERP",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [
+        "sap",
+        "s4hana",
+        "erp",
+        "implementation",
+        "abap",
+        "activate"
+      ],
+      "vn_specific": false,
+      "file": "docs/14-erp/ERP02-sap/README.md"
+    }
+  },
+  {
+    "id": "MOD-ERP03",
+    "type": "Module",
+    "label": "ERP03 — Odoo",
+    "properties": {
+      "code": "ERP03",
+      "name": "Odoo",
+      "domain": "ERP",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [
+        "odoo",
+        "open-source",
+        "erp",
+        "sme",
+        "vietnam",
+        "python",
+        "accounting"
+      ],
+      "vn_specific": false,
+      "file": "docs/14-erp/ERP03-odoo/README.md"
+    }
+  },
+  {
+    "id": "MOD-ERP04",
+    "type": "Module",
+    "label": "ERP04 — Microsoft Dynamics 365",
+    "properties": {
+      "code": "ERP04",
+      "name": "Microsoft Dynamics 365",
+      "domain": "ERP",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [
+        "dynamics365",
+        "microsoft",
+        "erp",
+        "power-platform",
+        "cloud",
+        "d365"
+      ],
+      "vn_specific": false,
+      "file": "docs/14-erp/ERP04-dynamics/README.md"
+    }
+  },
+  {
+    "id": "MOD-ERP05",
+    "type": "Module",
+    "label": "ERP05 — SCM & WMS Systems",
+    "properties": {
+      "code": "ERP05",
+      "name": "SCM & WMS Systems",
+      "domain": "ERP",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [
+        "scm",
+        "wms",
+        "tms",
+        "warehouse",
+        "supply-chain",
+        "logistics",
+        "vietnam"
+      ],
+      "vn_specific": false,
+      "file": "docs/14-erp/ERP05-scm-wms/README.md"
+    }
+  },
+  {
+    "id": "MOD-CRM01",
+    "type": "Module",
+    "label": "CRM01 — CRM System",
+    "properties": {
+      "code": "CRM01",
+      "name": "CRM System",
+      "domain": "CRM System",
+      "status": "active",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/15-crm/CRM01-crm-system/README.md"
+    }
+  },
+  {
+    "id": "MOD-CRM02",
+    "type": "Module",
+    "label": "CRM02 — Salesforce",
+    "properties": {
+      "code": "CRM02",
+      "name": "Salesforce",
+      "domain": "CRM System",
+      "status": "active",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/15-crm/CRM02-salesforce/README.md"
+    }
+  },
+  {
+    "id": "MOD-CRM03",
+    "type": "Module",
+    "label": "CRM03 — HubSpot",
+    "properties": {
+      "code": "CRM03",
+      "name": "HubSpot",
+      "domain": "CRM System",
+      "status": "active",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/15-crm/CRM03-hubspot/README.md"
+    }
+  },
+  {
+    "id": "MOD-CRM04",
+    "type": "Module",
+    "label": "CRM04 — Customer Data Platform",
+    "properties": {
+      "code": "CRM04",
+      "name": "Customer Data Platform",
+      "domain": "CRM System",
+      "status": "active",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/15-crm/CRM04-customer-data-platform/README.md"
+    }
+  },
+  {
+    "id": "MOD-DA01",
+    "type": "Module",
+    "label": "DA01 — Business Intelligence",
+    "properties": {
+      "code": "DA01",
+      "name": "Business Intelligence",
+      "domain": "Data",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/16-data/DA01-bi/README.md"
+    }
+  },
+  {
+    "id": "MOD-DA02",
+    "type": "Module",
+    "label": "DA02 — Data Warehouse",
+    "properties": {
+      "code": "DA02",
+      "name": "Data Warehouse",
+      "domain": "Data",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/16-data/DA02-data-warehouse/README.md"
+    }
+  },
+  {
+    "id": "MOD-DA03",
+    "type": "Module",
+    "label": "DA03 — Master Data Management",
+    "properties": {
+      "code": "DA03",
+      "name": "Master Data Management",
+      "domain": "Data",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/16-data/DA03-master-data/README.md"
+    }
+  },
+  {
+    "id": "MOD-DA04",
+    "type": "Module",
+    "label": "DA04 — Enterprise Architecture",
+    "properties": {
+      "code": "DA04",
+      "name": "Enterprise Architecture",
+      "domain": "Data",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/16-data/DA04-enterprise-architecture/README.md"
+    }
+  },
+  {
+    "id": "MOD-AI01",
+    "type": "Module",
+    "label": "AI01 — Digital Transformation",
+    "properties": {
+      "code": "AI01",
+      "name": "Digital Transformation",
+      "domain": "AI & Digital",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/17-ai/AI01-digital-transformation/README.md"
+    }
+  },
+  {
+    "id": "MOD-AI02",
+    "type": "Module",
+    "label": "AI02 — AI for Business",
+    "properties": {
+      "code": "AI02",
+      "name": "AI for Business",
+      "domain": "AI & Digital",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/17-ai/AI02-ai-for-business/README.md"
+    }
+  },
+  {
+    "id": "MOD-AI03",
+    "type": "Module",
+    "label": "AI03 — Automation & RPA",
+    "properties": {
+      "code": "AI03",
+      "name": "Automation & RPA",
+      "domain": "AI & Digital",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/17-ai/AI03-automation-rpa/README.md"
+    }
+  },
+  {
+    "id": "MOD-AI04",
+    "type": "Module",
+    "label": "AI04 — LLM & AI Agents",
+    "properties": {
+      "code": "AI04",
+      "name": "LLM & AI Agents",
+      "domain": "AI & Digital",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/17-ai/AI04-llm-agents/README.md"
+    }
+  },
+  {
+    "id": "MOD-AI05",
+    "type": "Module",
+    "label": "AI05 — MCP & Workflow Automation",
+    "properties": {
+      "code": "AI05",
+      "name": "MCP & Workflow Automation",
+      "domain": "AI & Digital",
+      "status": "complete",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/17-ai/AI05-mcp-workflow/README.md"
+    }
+  },
+  {
+    "id": "MOD-CO01",
+    "type": "Module",
+    "label": "CO01 — Consulting Methodology",
+    "properties": {
+      "code": "CO01",
+      "name": "Consulting Methodology",
+      "domain": "Consulting",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/18-consulting/CO01-consulting-methodology/README.md"
+    }
+  },
+  {
+    "id": "MOD-CO02",
+    "type": "Module",
+    "label": "CO02 — GAP Analysis",
+    "properties": {
+      "code": "CO02",
+      "name": "GAP Analysis",
+      "domain": "Consulting",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/18-consulting/CO02-gap-analysis/README.md"
+    }
+  },
+  {
+    "id": "MOD-CO03",
+    "type": "Module",
+    "label": "CO03 — Maturity Model",
+    "properties": {
+      "code": "CO03",
+      "name": "Maturity Model",
+      "domain": "Consulting",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/18-consulting/CO03-maturity-model/README.md"
+    }
+  },
+  {
+    "id": "MOD-CO04",
+    "type": "Module",
+    "label": "CO04 — Audit",
+    "properties": {
+      "code": "CO04",
+      "name": "Audit",
+      "domain": "Consulting",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/18-consulting/CO04-audit/README.md"
+    }
+  },
+  {
+    "id": "MOD-CO05",
+    "type": "Module",
+    "label": "CO05 — Risk Management",
+    "properties": {
+      "code": "CO05",
+      "name": "Risk Management",
+      "domain": "Consulting",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/18-consulting/CO05-risk-management/README.md"
+    }
+  },
+  {
+    "id": "MOD-CO06",
+    "type": "Module",
+    "label": "CO06 — Internal Control",
+    "properties": {
+      "code": "CO06",
+      "name": "Internal Control",
+      "domain": "Consulting",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/18-consulting/CO06-internal-control/README.md"
+    }
+  },
+  {
+    "id": "MOD-GV01",
+    "type": "Module",
+    "label": "GV01 — Corporate Governance",
+    "properties": {
+      "code": "GV01",
+      "name": "Corporate Governance",
+      "domain": "Governance",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/19-governance/GV01-corporate-governance/README.md"
+    }
+  },
+  {
+    "id": "MOD-GV02",
+    "type": "Module",
+    "label": "GV02 — Compliance",
+    "properties": {
+      "code": "GV02",
+      "name": "Compliance",
+      "domain": "Governance",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/19-governance/GV02-compliance/README.md"
+    }
+  },
+  {
+    "id": "MOD-GV03",
+    "type": "Module",
+    "label": "GV03 — ESG",
+    "properties": {
+      "code": "GV03",
+      "name": "ESG",
+      "domain": "Governance",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/19-governance/GV03-esg/README.md"
+    }
+  },
+  {
+    "id": "MOD-GV04",
+    "type": "Module",
+    "label": "GV04 — Sustainability",
+    "properties": {
+      "code": "GV04",
+      "name": "Sustainability",
+      "domain": "Governance",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/19-governance/GV04-sustainability/README.md"
+    }
+  },
+  {
+    "id": "MOD-CE01",
+    "type": "Module",
+    "label": "CE01 — M&A",
+    "properties": {
+      "code": "CE01",
+      "name": "M&A",
+      "domain": "Corporate Events",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/20-corporate-events/CE01-ma/README.md"
+    }
+  },
+  {
+    "id": "MOD-CE02",
+    "type": "Module",
+    "label": "CE02 — IPO",
+    "properties": {
+      "code": "CE02",
+      "name": "IPO",
+      "domain": "Corporate Events",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/20-corporate-events/CE02-ipo/README.md"
+    }
+  },
+  {
+    "id": "MOD-CE03",
+    "type": "Module",
+    "label": "CE03 — Innovation",
+    "properties": {
+      "code": "CE03",
+      "name": "Innovation",
+      "domain": "Corporate Events",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/20-corporate-events/CE03-innovation/README.md"
+    }
+  },
+  {
+    "id": "MOD-CE04",
+    "type": "Module",
+    "label": "CE04 — Change Management",
+    "properties": {
+      "code": "CE04",
+      "name": "Change Management",
+      "domain": "Corporate Events",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/20-corporate-events/CE04-change-management/README.md"
+    }
+  },
+  {
+    "id": "MOD-BT01",
+    "type": "Module",
+    "label": "BT01 — Startup",
+    "properties": {
+      "code": "BT01",
+      "name": "Startup",
+      "domain": "Business Types",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/21-business-types/BT01-startup/README.md"
+    }
+  },
+  {
+    "id": "MOD-BT02",
+    "type": "Module",
+    "label": "BT02 — SME",
+    "properties": {
+      "code": "BT02",
+      "name": "SME",
+      "domain": "Business Types",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/21-business-types/BT02-sme/README.md"
+    }
+  },
+  {
+    "id": "MOD-BT03",
+    "type": "Module",
+    "label": "BT03 — Family Business",
+    "properties": {
+      "code": "BT03",
+      "name": "Family Business",
+      "domain": "Business Types",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/21-business-types/BT03-family-business/README.md"
+    }
+  },
+  {
+    "id": "MOD-BT04",
+    "type": "Module",
+    "label": "BT04 — Large Enterprise",
+    "properties": {
+      "code": "BT04",
+      "name": "Large Enterprise",
+      "domain": "Business Types",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/21-business-types/BT04-large-enterprise/README.md"
+    }
+  },
+  {
+    "id": "MOD-BT05",
+    "type": "Module",
+    "label": "BT05 — International Business",
+    "properties": {
+      "code": "BT05",
+      "name": "International Business",
+      "domain": "Business Types",
+      "status": "pending",
+      "level": "Intermediate",
+      "learning_hours": null,
+      "tags": [],
+      "vn_specific": false,
+      "file": "docs/21-business-types/BT05-international/README.md"
+    }
+  }
+]

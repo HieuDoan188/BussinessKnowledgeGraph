@@ -1,0 +1,20 @@
+[
+  { "id": "STD-IFRS15", "type": "Standard", "label": "IFRS 15 — Revenue from Contracts with Customers", "issuing_body": "IASB", "domain_tags": ["accounting", "finance"], "aliases": ["IFRS 15", "IFRS15", "Revenue Recognition IFRS"] },
+  { "id": "STD-IFRS16", "type": "Standard", "label": "IFRS 16 — Leases", "issuing_body": "IASB", "domain_tags": ["accounting", "finance"], "aliases": ["IFRS 16", "IFRS16"] },
+  { "id": "STD-IFRS9", "type": "Standard", "label": "IFRS 9 — Financial Instruments", "issuing_body": "IASB", "domain_tags": ["accounting", "finance"], "aliases": ["IFRS 9", "IFRS9"] },
+  { "id": "STD-IFRS17", "type": "Standard", "label": "IFRS 17 — Insurance Contracts", "issuing_body": "IASB", "domain_tags": ["accounting", "insurance"], "aliases": ["IFRS 17", "IFRS17"] },
+  { "id": "STD-GAAP-US", "type": "Standard", "label": "US GAAP", "issuing_body": "FASB", "jurisdiction": "US", "domain_tags": ["accounting"], "aliases": ["US GAAP", "GAAP", "FASB"] },
+  { "id": "STD-VAS", "type": "Standard", "label": "VAS — Chuẩn Mực Kế Toán Việt Nam", "issuing_body": "Bộ Tài Chính VN", "jurisdiction": "VN", "domain_tags": ["accounting"], "aliases": ["VAS", "Chuẩn mực kế toán VN", "VAS 01", "VAS 02", "VAS 03", "VAS 10", "VAS 14", "VAS 17"] },
+  { "id": "STD-ISO9001", "type": "Standard", "label": "ISO 9001 — Quality Management Systems", "issuing_body": "ISO", "domain_tags": ["quality", "operations"], "aliases": ["ISO 9001", "ISO9001", "ISO 9001:2015"] },
+  { "id": "STD-ISO14001", "type": "Standard", "label": "ISO 14001 — Environmental Management", "issuing_body": "ISO", "domain_tags": ["environment", "esg"], "aliases": ["ISO 14001", "ISO14001"] },
+  { "id": "STD-ISO45001", "type": "Standard", "label": "ISO 45001 — Occupational Health & Safety", "issuing_body": "ISO", "domain_tags": ["hr", "safety"], "aliases": ["ISO 45001", "ISO45001", "OHSAS 18001"] },
+  { "id": "STD-ISO56002", "type": "Standard", "label": "ISO 56002 — Innovation Management", "issuing_body": "ISO", "domain_tags": ["strategy", "innovation"], "aliases": ["ISO 56002", "ISO56002"] },
+  { "id": "STD-SOC2", "type": "Standard", "label": "SOC 2 — Service Organization Control", "issuing_body": "AICPA", "domain_tags": ["technology", "security"], "aliases": ["SOC 2", "SOC2", "SOC 1"] },
+  { "id": "STD-COBIT", "type": "Standard", "label": "COBIT — Control Objectives for Information Technologies", "issuing_body": "ISACA", "domain_tags": ["governance", "technology"], "aliases": ["COBIT", "COBIT 2019"] },
+  { "id": "STD-ITIL", "type": "Standard", "label": "ITIL — IT Infrastructure Library", "issuing_body": "Axelos", "domain_tags": ["technology", "operations"], "aliases": ["ITIL", "ITIL 4", "ITIL v4"] },
+  { "id": "STD-GRI", "type": "Standard", "label": "GRI Standards (Global Reporting Initiative)", "issuing_body": "GRI", "domain_tags": ["esg", "governance"], "aliases": ["GRI", "GRI 2021", "GRI Standards", "GRI 302", "GRI 401"] },
+  { "id": "STD-SASB", "type": "Standard", "label": "SASB Standards", "issuing_body": "SASB", "domain_tags": ["esg", "finance"], "aliases": ["SASB", "SASB Standards"] },
+  { "id": "STD-TCFD", "type": "Standard", "label": "TCFD — Task Force on Climate-related Financial Disclosures", "issuing_body": "FSB", "domain_tags": ["esg", "finance"], "aliases": ["TCFD", "Task Force Climate"] },
+  { "id": "STD-VNACCS", "type": "Standard", "label": "VNACCS — Hệ thống thông quan điện tử VN", "issuing_body": "Tổng Cục Hải Quan VN", "jurisdiction": "VN", "domain_tags": ["customs", "logistics"], "aliases": ["VNACCS", "hệ thống thông quan", "luồng Xanh", "luồng Vàng", "luồng Đỏ"] },
+  { "id": "STD-TRIPS", "type": "Standard", "label": "TRIPS Agreement (Trade-Related Aspects of Intellectual Property Rights)", "issuing_body": "WTO", "jurisdiction": "International", "domain_tags": ["ip", "law"], "aliases": ["TRIPS", "TRIPS Agreement"] }
+]

@@ -93,5 +93,89 @@ BussinessKnowledgeGraph/
 ## Mỗi module gồm 40 mục + 10 output formats
 Xem template đầy đủ tại: [docs/23-templates/module-template/MODULE_TEMPLATE.md](docs/23-templates/module-template/MODULE_TEMPLATE.md)
 
-## Bắt đầu
+## Bắt đầu đọc
 → [docs/00-roadmap/README.md](docs/00-roadmap/README.md)
+
+---
+
+## Công cụ đi kèm
+
+### PDF Converter
+
+Chuyển toàn bộ (hoặc một phần) handbook thành file PDF — chạy từ project root:
+
+```bash
+# Cài đặt (chạy 1 lần)
+cd tools/convert-pdf && npm install
+
+# Convert một domain
+node tools/convert-pdf/convert.mjs --domain 06-finance
+
+# Gộp một domain thành 1 PDF
+node tools/convert-pdf/convert.mjs --domain 12-logistics --merge
+
+# Gộp toàn bộ handbook thành 1 PDF lớn
+node tools/convert-pdf/convert.mjs --merge
+
+# Một file cụ thể
+node tools/convert-pdf/convert.mjs --file docs/03-strategy/S01-corporate-strategy/README.md
+```
+
+Output ra `output/pdf/`.
+
+---
+
+### Knowledge Graph
+
+Mỗi module được liên kết với nhau qua 287 nodes và 1.741 edges thuộc 8 loại quan hệ:
+`prerequisite_of` · `relates_to` · `implements` · `regulated_by` · `used_in` · `defines` · `exemplified_by` · `supersedes`
+
+**Build graph** (chạy lại mỗi khi thêm/sửa content):
+
+```bash
+node tools/build-graph.mjs
+```
+
+**Query graph:**
+
+```bash
+# Xem toàn bộ context một module
+node tools/query-graph.mjs --module S01
+node tools/query-graph.mjs --module LG02
+
+# Tìm luật → module nào bị ảnh hưởng (dùng khi pháp luật thay đổi)
+node tools/query-graph.mjs --law "BLLĐ"
+node tools/query-graph.mjs --law "Luật Đất Đai"
+
+# Framework này lan rộng đến bao nhiêu module?
+node tools/query-graph.mjs --entity FW-SCOR
+node tools/query-graph.mjs --entity FW-OKR
+
+# Đường học ngắn nhất giữa 2 module
+node tools/query-graph.mjs --path F01 MF05
+node tools/query-graph.mjs --path B01 CRM04
+
+# Thống kê toàn graph
+node tools/query-graph.mjs --stats
+```
+
+**Ứng dụng thực tế:**
+
+| Tình huống | Lệnh |
+|---|---|
+| Luật mới ban hành — cần biết update module nào | `--law "tên luật"` |
+| Chuẩn bị tài liệu cho khách hàng 1 domain | `--domain ... --merge` |
+| Thiết kế learning path tùy chỉnh | `--path [from] [to]` |
+| AI agent cần load knowledge base có cấu trúc | `graph/nodes.json` + `graph/edges.json` |
+| Kiểm tra framework X có dạy ở những đâu | `--entity FW-XXX` |
+
+**Ontology registry** (`schema/entities/`):
+
+| File | Nội dung |
+|---|---|
+| `frameworks.json` | 45 frameworks: Porter, SCOR, MEDDIC, OKR, Incoterms... |
+| `laws.json` | 27 luật VN + quốc tế: BLLĐ, Luật DN, NĐ 13, EVFTA... |
+| `standards.json` | 18 chuẩn: IFRS, ISO 9001, VAS, GRI, VNACCS... |
+| `companies.json` | 32 công ty case study: Vinamilk → SAP → McKinsey |
+
+Khi thêm entity mới → cập nhật file tương ứng → chạy lại `build-graph.mjs`.

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p e:/prj/BussinessKnowledgeGraph/schema/entities e:/prj/BussinessKnowledgeGraph/graph && ls e:/prj/BussinessKnowledgeGraph/)",
+      "Bash(node tools/build-graph.mjs --verbose)",
+      "Bash(node -e ' *)",
+      "Bash(node tools/query-graph.mjs --module S01)",
+      "Bash(node tools/query-graph.mjs --entity FW-SCOR)",
+      "Bash(node tools/query-graph.mjs --path F01 MF05)"
+    ],
+    "additionalDirectories": [
+      "e:\\prj\\BussinessKnowledgeGraph\\schema"
+    ]
+  }
+}

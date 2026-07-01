@@ -1,0 +1,8707 @@
+[
+  {
+    "from": "MOD-F01",
+    "to": "MOD-F02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-F03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-S01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-FI01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-FI04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "FW-ADHOC-DEMAND-SUPPLY",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "LAW-THUETNDN",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "FW-ADHOC-GAME-THEORY",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "FW-ADHOC-PRINCIPAL-AGENT",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "FW-ADHOC-COSO",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "LAW-CT-2018",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-PORTER5",
+    "to": "MOD-F01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-ABM",
+    "to": "MOD-F01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-F01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-F01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "LAW-CT-2018",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-F02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "MOD-F03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "MOD-F02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "MOD-F02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "MOD-TX01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "STD-VAS",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "STD-IFRS15",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "FW-ADHOC-DOUBLE-ENTRY",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "FW-ADHOC-ACCRUAL-ACCOUNTING",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "LAW-TT200-2014",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "LAW-KT-2015",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-F02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "LAW-KT-2015",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "LAW-TT200-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "STD-IFRS15",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "STD-GAAP-US",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "CO-ODOO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-F03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "MOD-F03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "MOD-FI01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "MOD-FI02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "MOD-FI04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "MOD-F03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "FW-DCF",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "FW-WACC",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "FW-ADHOC-DUPONT",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "FW-ADHOC-CAPM",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "FW-ADHOC-3-STATEMENT-MODEL",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "LAW-ĐT-2020",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-DCF",
+    "to": "MOD-F03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-WACC",
+    "to": "MOD-F03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-F03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "LAW-ĐT-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-F04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "MOD-F04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "MOD-F04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "MOD-F04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "MOD-OP03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "FW-ADHOC-CRISP-DM",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "FW-ADHOC-HYPOTHESIS-TESTING",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "FW-ADHOC-REGRESSION",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "FW-ADHOC-SPC",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "FW-SIX-SIGMA",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-F04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SIX-SIGMA",
+    "to": "MOD-F04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-F04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-F04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-F04",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "LAW-RCEP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "CO-TIKI",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "CO-LAZADA-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-F05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "MOD-F06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "MOD-HR05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "MOD-OP01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "MOD-S01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "FW-ADHOC-POLC",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "FW-ADHOC-SITUATIONAL-LEADERSHIP",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "FW-OKR",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "FW-PMBOK",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "FW-PDCA",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "FW-ADHOC-MASLOW",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "CO-BE",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "STD-ISO9001",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-OKR",
+    "to": "MOD-F05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-F05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-F05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-F05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-PDCA",
+    "to": "MOD-F05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-F05",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-F06",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "MOD-F06",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "MOD-HR01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "MOD-HR03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "MOD-HR05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-CE04",
+    "to": "MOD-F06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "FW-ADHOC-TUCKMAN",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "FW-ADHOC-KOTTER",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "FW-ADHOC-ADKAR",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "FW-ADHOC-HOFSTEDE",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "FW-ADHOC-COMPETING-VALUES",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "FW-ADHOC-THOMAS-KILMANN",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-F06",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-F06",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-F06",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "LAW-RCEP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F06",
+    "to": "CO-MCKINSEYCO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-B01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "MOD-B01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F03",
+    "to": "MOD-B01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "MOD-B02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "MOD-S01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "MOD-FI01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "MOD-MK01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "MOD-SA01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "FW-BMC",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "FW-LEAN",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "FW-BLUE-OCEAN",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "FW-JTBD",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "STD-VAS",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "STD-ISO56002",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-BLUE-OCEAN",
+    "to": "MOD-B01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-B01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-BMC",
+    "to": "MOD-B01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-B01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-B01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-JTBD",
+    "to": "MOD-B01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "LAW-ĐT-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "LAW-CT-2018",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "STD-ISO56002",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "CO-MOMO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "CO-TIKI",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "CO-LAZADA-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "MOD-B02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "MOD-B02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "MOD-B03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "MOD-S01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "MOD-OP01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "MOD-DA04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "MOD-ERP01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "FW-ADHOC-TOGAF",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "FW-ADHOC-PORTER-VALUE-CHAIN",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "STD-VAS",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "FW-ADHOC-APQC-PCF",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "FW-ADHOC-ARCHIMATE",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-B02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-B02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "LAW-DN-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "CO-ODOO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "MOD-B03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "MOD-B03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "MOD-B03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-B03",
+    "to": "MOD-GV01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B03",
+    "to": "MOD-GV02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B03",
+    "to": "MOD-LW01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B03",
+    "to": "MOD-CO06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B03",
+    "to": "FW-ADHOC-OECD-GOVERNANCE-PRINCIPLES",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-B03",
+    "to": "FW-ADHOC-COSO",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-B03",
+    "to": "FW-ADHOC-KING-IV",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-B03",
+    "to": "FW-ADHOC-CADBURY-REPORT",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-B03",
+    "to": "LAW-DN-2020",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-B03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-B03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-B03",
+    "to": "LAW-DN-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-B03",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-B03",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-B03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-S01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "MOD-S01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "MOD-S01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "MOD-S01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "MOD-S02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "MOD-S03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B03",
+    "to": "MOD-S01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "MOD-S01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "MOD-S01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "FW-PORTER5",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "FW-PESTEL",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "FW-SWOT",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "FW-VRIO",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "FW-BCG",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "FW-ANSOFF",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "FW-7S",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "FW-BLUE-OCEAN",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "STD-ISO56002",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "STD-GRI",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-PORTER5",
+    "to": "MOD-S01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-PESTEL",
+    "to": "MOD-S01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SWOT",
+    "to": "MOD-S01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-VRIO",
+    "to": "MOD-S01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-BCG",
+    "to": "MOD-S01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "CO-BCG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-ANSOFF",
+    "to": "MOD-S01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-7S",
+    "to": "MOD-S01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-BLUE-OCEAN",
+    "to": "MOD-S01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-OKR",
+    "to": "MOD-S01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-S01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-S01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-S01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-S01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "LAW-DN-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "LAW-ĐT-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "LAW-CT-2018",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "LAW-ĐĐ-2024",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "STD-ISO56002",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "CO-THACO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "CO-MOMO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "CO-MCKINSEYCO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "MOD-S02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "MOD-S02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-S02",
+    "to": "MOD-S03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "MOD-S02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "MOD-S02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-S02",
+    "to": "FW-OKR",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S02",
+    "to": "FW-ADHOC-CFR",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S02",
+    "to": "FW-ADHOC-4DX",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S02",
+    "to": "FW-ADHOC-HOSHIN-KANRI",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-OKR",
+    "to": "MOD-S02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-S02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-S02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-S02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-S02",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-S02",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-S02",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S02",
+    "to": "CO-MOMO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S02",
+    "to": "CO-TIKI",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S02",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S02",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "MOD-S03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "MOD-S03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-S02",
+    "to": "MOD-S03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "MOD-S03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "MOD-S03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "MOD-S03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-S03",
+    "to": "FW-BSC",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S03",
+    "to": "FW-ADHOC-STRATEGY-MAPS",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S03",
+    "to": "FW-ADHOC-KPI-FRAMEWORK",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S03",
+    "to": "STD-ISO9001",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-S03",
+    "to": "STD-GRI",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-OKR",
+    "to": "MOD-S03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-S03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-S03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-S03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-S03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-5WHY",
+    "to": "MOD-S03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-S03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-S03",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-S03",
+    "to": "STD-COBIT",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-S03",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-S03",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S03",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S03",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S03",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S03",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-S03",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-MK01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "MOD-MK01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "MOD-MK01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "MOD-MK02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "MOD-MK03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "MOD-SA01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "FW-STP",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "FW-4P",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "FW-AIDA",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "FW-ADHOC-SOSTAC",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "FW-ADHOC-CUSTOMER-JOURNEY",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-MK01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AIDA",
+    "to": "MOD-MK01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-4P",
+    "to": "MOD-MK01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-STP",
+    "to": "MOD-MK01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-MK01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-JTBD",
+    "to": "MOD-MK01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-MK01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "CO-HUBSPOT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "MOD-MK02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-S01",
+    "to": "MOD-MK02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "MOD-MK03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "MOD-SA01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "CO-BE",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "FW-ADHOC-BRAND-EQUITY-AAKER",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "FW-ADHOC-STORYBRAND",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "FW-ADHOC-BRAND-ARCHETYPES",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-MK02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-STP",
+    "to": "MOD-MK02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-MK02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-MK02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "LAW-RCEP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "CO-MOMO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "CO-APPLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK02",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "MOD-MK03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "MOD-MK03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "MOD-MK04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "MOD-SA03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "MOD-MK03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "FW-AARRR",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "FW-ADHOC-GROWTH-LOOPS",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "FW-SCOR",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "FW-ADHOC-PLG",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "FW-ADHOC-VIRAL-COEFFICIENT",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-MK03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-MK03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-MK03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AARRR",
+    "to": "MOD-MK03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-MK03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-MK03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "CO-MOMO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "CO-TIKI",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "MOD-MK04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "MOD-MK04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "MOD-MK04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MK04",
+    "to": "MOD-SA01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MK04",
+    "to": "MOD-SA02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MK04",
+    "to": "MOD-OP03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MK04",
+    "to": "FW-AARRR",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK04",
+    "to": "FW-SCOR",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK04",
+    "to": "FW-ADHOC-NRR",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK04",
+    "to": "FW-ADHOC-QBR",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK04",
+    "to": "FW-ADHOC-ONBOARDING-FRAMEWORK",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-MK04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AARRR",
+    "to": "MOD-MK04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-MK04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-JTBD",
+    "to": "MOD-MK04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-MK04",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-MK04",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK04",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK04",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK04",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK04",
+    "to": "CO-HUBSPOT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK01",
+    "to": "MOD-MK05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "MOD-MK05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-B01",
+    "to": "MOD-MK05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "MOD-MK05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MK03",
+    "to": "MOD-MK05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MK04",
+    "to": "MOD-MK05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MK05",
+    "to": "MOD-OP01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "MOD-MK05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "MOD-MK05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MK05",
+    "to": "FW-ADHOC-RICE",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK05",
+    "to": "FW-AGILE",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK05",
+    "to": "FW-JTBD",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK05",
+    "to": "FW-ADHOC-DESIGN-THINKING",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK05",
+    "to": "FW-LEAN",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK05",
+    "to": "FW-OKR",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MK05",
+    "to": "FW-SCRUM",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-OKR",
+    "to": "MOD-MK05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-MK05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-MK05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AARRR",
+    "to": "MOD-MK05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-MK05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCRUM",
+    "to": "MOD-MK05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-MK05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-JTBD",
+    "to": "MOD-MK05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-MK05",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-MK05",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MK05",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK05",
+    "to": "CO-MOMO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK05",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK05",
+    "to": "CO-TIKI",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK05",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MK05",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-SWOT",
+    "to": "MOD-SA01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-SA01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-SA01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SPIN",
+    "to": "MOD-SA01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-MEDDIC",
+    "to": "MOD-SA01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-BANT",
+    "to": "MOD-SA01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AIDA",
+    "to": "MOD-SA01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-PYRAMID",
+    "to": "MOD-SA01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-SA01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "LAW-TM-2005",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "CO-THACO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "CO-LAZADA-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA01",
+    "to": "CO-HUBSPOT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-OKR",
+    "to": "MOD-SA02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-SA02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-SA02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SPIN",
+    "to": "MOD-SA02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-MEDDIC",
+    "to": "MOD-SA02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-BANT",
+    "to": "MOD-SA02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-ABM",
+    "to": "MOD-SA02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-SA02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-SA02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "LAW-TM-2005",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "LAW-ĐTH-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "LAW-RCEP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "STD-IFRS15",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "STD-SOC2",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "STD-TRIPS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "CO-HUBSPOT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "CO-ODOO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA02",
+    "to": "CO-DELOITTE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-SA03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-SA03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SPIN",
+    "to": "MOD-SA03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AIDA",
+    "to": "MOD-SA03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-4P",
+    "to": "MOD-SA03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-CDP",
+    "to": "MOD-SA03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-SA03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "LAW-CT-2018",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-MOMO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-LAZADA-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-VPBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA03",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-BCG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-SA04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-SA04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-5WHY",
+    "to": "MOD-SA04",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "LAW-TM-2005",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "LAW-CT-2018",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-LAZADA-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-GHN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-GHTK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-APPLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA04",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-SA05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-4P",
+    "to": "MOD-SA05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-SA05",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "LAW-TM-2005",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "LAW-CT-2018",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "LAW-RCEP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-LAZADA-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-HUBSPOT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA05",
+    "to": "CO-MCKINSEYCO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-SA06",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-SA06",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-SA06",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-SA06",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-MEDDIC",
+    "to": "MOD-SA06",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-BANT",
+    "to": "MOD-SA06",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-CDP",
+    "to": "MOD-SA06",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-SA06",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-SA06",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "LAW-RCEP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-SA06",
+    "to": "CO-HUBSPOT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "MOD-FI01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "MOD-FI01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "MOD-FI02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "MOD-FI03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "MOD-FI04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "MOD-FI05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "MOD-FI06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-FI01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-FI01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-WACC",
+    "to": "MOD-FI01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "LAW-DN-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "LAW-KT-2015",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "LAW-TT200-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "STD-IFRS15",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "STD-IFRS16",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "STD-GAAP-US",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "MOD-FI02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-FI02",
+    "to": "MOD-FI05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-FI02",
+    "to": "MOD-FI06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-FI02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-DCF",
+    "to": "MOD-FI02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-FI02",
+    "to": "LAW-BHXH-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI02",
+    "to": "LAW-TT200-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI02",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI02",
+    "to": "STD-GAAP-US",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI02",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI02",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI02",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "MOD-FI03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-FI02",
+    "to": "MOD-FI03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-FI03",
+    "to": "MOD-FI04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-FI03",
+    "to": "MOD-FI05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-DCF",
+    "to": "MOD-FI03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-WACC",
+    "to": "MOD-FI03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-FI03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-FI03",
+    "to": "LAW-ĐT-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI03",
+    "to": "LAW-ĐĐ-2024",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI03",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI03",
+    "to": "STD-IFRS9",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI03",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI03",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI03",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI03",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "MOD-FI04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-FI02",
+    "to": "MOD-FI04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-FI03",
+    "to": "MOD-FI04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-FI04",
+    "to": "MOD-FI05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-FI04",
+    "to": "MOD-FI06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-DCF",
+    "to": "MOD-FI04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-WACC",
+    "to": "MOD-FI04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-FI04",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-FI04",
+    "to": "LAW-DN-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI04",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI04",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI04",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI04",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI04",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI04",
+    "to": "CO-MOMO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI04",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI04",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI04",
+    "to": "CO-MCKINSEYCO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "MOD-FI05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-FI02",
+    "to": "MOD-FI05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-FI05",
+    "to": "MOD-FI06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-SOP",
+    "to": "MOD-FI05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-STP",
+    "to": "MOD-FI05",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-FI05",
+    "to": "LAW-DN-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI05",
+    "to": "LAW-ĐTH-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI05",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI05",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI05",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI05",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI05",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI05",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI05",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI05",
+    "to": "CO-MCKINSEYCO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI01",
+    "to": "MOD-FI06",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-FI02",
+    "to": "MOD-FI06",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-FI06",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-STP",
+    "to": "MOD-FI06",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-FI06",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-FI06",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI06",
+    "to": "STD-IFRS9",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI06",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-FI06",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI06",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI06",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI06",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-FI06",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "MOD-AC02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "MOD-AC03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "MOD-AC04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "MOD-FN01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "LAW-KT-2015",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "LAW-BHXH-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "LAW-TT200-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "LAW-THUEGTGT",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "STD-IFRS15",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "STD-GAAP-US",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "MOD-AC02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "MOD-AC03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "MOD-AC04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "MOD-FN01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "MOD-FN02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-AC02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "LAW-TT200-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "STD-GAAP-US",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "CO-DELOITTE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "MOD-AC03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "MOD-AC03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-AC03",
+    "to": "MOD-AC04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC03",
+    "to": "MOD-OP01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC03",
+    "to": "MOD-FN03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-AC03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-AC03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-AC03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-AC03",
+    "to": "LAW-BHXH-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC03",
+    "to": "LAW-TT200-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC03",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC03",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC03",
+    "to": "STD-IFRS15",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC03",
+    "to": "STD-GAAP-US",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC03",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC03",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "MOD-AC04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "MOD-AC04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-AC03",
+    "to": "MOD-AC04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-AC04",
+    "to": "MOD-FN01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC04",
+    "to": "MOD-LW01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-AC04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-DCF",
+    "to": "MOD-AC04",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-AC04",
+    "to": "LAW-TT200-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC04",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC04",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC04",
+    "to": "STD-IFRS15",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC04",
+    "to": "STD-IFRS16",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC04",
+    "to": "STD-IFRS9",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC04",
+    "to": "STD-IFRS17",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC04",
+    "to": "STD-GAAP-US",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AC04",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC04",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC04",
+    "to": "CO-VPBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC04",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AC04",
+    "to": "CO-DELOITTE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW01",
+    "to": "MOD-LW02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LW01",
+    "to": "MOD-LW03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LW01",
+    "to": "MOD-LW04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LW01",
+    "to": "MOD-LW05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LW01",
+    "to": "MOD-LW06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC01",
+    "to": "MOD-LW01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-LW01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SPIN",
+    "to": "MOD-LW01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-LW01",
+    "to": "LAW-DN-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW01",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW01",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW01",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-SWOT",
+    "to": "MOD-LW02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-LW02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "LAW-DN-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "LAW-ĐT-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "LAW-CT-2018",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "LAW-ĐĐ-2024",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "LAW-PPP-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "LAW-BHXH-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "LAW-THUEGTGT",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "LAW-EVFTA",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "LAW-CPTPP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "LAW-RCEP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "STD-TRIPS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW02",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-LW03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-LW03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-LW03",
+    "to": "LAW-TM-2005",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW03",
+    "to": "LAW-SHTT-2022",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW03",
+    "to": "LAW-CT-2018",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW03",
+    "to": "LAW-ĐTH-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW03",
+    "to": "LAW-PPP-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW03",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW03",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW03",
+    "to": "LAW-THUEGTGT",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW03",
+    "to": "LAW-TATM-2010",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW03",
+    "to": "LAW-BLDS-2015",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW03",
+    "to": "LAW-EVFTA",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW04",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW04",
+    "to": "LAW-BHXH-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW04",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW04",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW04",
+    "to": "LAW-THUETNCN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW04",
+    "to": "LAW-NĐ145-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW04",
+    "to": "LAW-EVFTA",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW04",
+    "to": "LAW-CPTPP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW04",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW04",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-LW05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-LW05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-LW05",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "LAW-SHTT-2022",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "LAW-EVFTA",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "LAW-CPTPP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "STD-TRIPS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "CO-LAZADA-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "CO-APPLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW05",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-LW06",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-LW06",
+    "to": "LAW-ĐĐ-2024",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW06",
+    "to": "LAW-NO-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW06",
+    "to": "LAW-KDBĐS-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW06",
+    "to": "LAW-ĐTH-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW06",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW06",
+    "to": "LAW-THUETNCN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW06",
+    "to": "LAW-BLDS-2015",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW06",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LW06",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW06",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW06",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW06",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LW06",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "MOD-TX02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "MOD-TX03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "MOD-TX04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "MOD-TX05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-TX01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-TX01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "LAW-BHXH-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "LAW-THUEGTGT",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "LAW-THUETNCN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "MOD-TX02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-TX02",
+    "to": "MOD-TX03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-TX02",
+    "to": "MOD-TX04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-TX02",
+    "to": "MOD-TX05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-TX02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-TX02",
+    "to": "LAW-BHXH-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX02",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX02",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX02",
+    "to": "LAW-THUEGTGT",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX02",
+    "to": "LAW-THUETNCN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX02",
+    "to": "STD-GAAP-US",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX02",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX02",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX02",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "MOD-TX03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-TX03",
+    "to": "MOD-TX04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-TX03",
+    "to": "MOD-TX05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-TX03",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX03",
+    "to": "LAW-THUEGTGT",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX03",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX03",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX03",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX03",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX03",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "MOD-TX04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-HR02",
+    "to": "MOD-TX04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-TX04",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-TX04",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX04",
+    "to": "LAW-BHXH-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX04",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX04",
+    "to": "LAW-THUETNCN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX04",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX04",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX01",
+    "to": "MOD-TX05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-TX02",
+    "to": "MOD-TX05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-TX03",
+    "to": "MOD-TX05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-TX04",
+    "to": "MOD-TX05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-TX04",
+    "to": "MOD-TX05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-TX05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-TX05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-TX05",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-TX05",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX05",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX05",
+    "to": "STD-GAAP-US",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX05",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-TX05",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX05",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX05",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-TX05",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-OP01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F02",
+    "to": "MOD-OP01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "MOD-OP02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "MOD-OP03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "MOD-OP04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "MOD-S03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-OP01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SIX-SIGMA",
+    "to": "MOD-OP01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-OP01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KANBAN",
+    "to": "MOD-OP01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-OP01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-OP01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-PDCA",
+    "to": "MOD-OP01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "LAW-KT-2015",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "LAW-TT200-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "STD-ITIL",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "CO-ODOO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "MOD-OP02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-OP02",
+    "to": "MOD-OP03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F04",
+    "to": "MOD-OP02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-OP02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-OP02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-OP02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-PDCA",
+    "to": "MOD-OP02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-OP02",
+    "to": "LAW-KT-2015",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP02",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP02",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP02",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP02",
+    "to": "STD-ISO14001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP02",
+    "to": "STD-ISO45001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP02",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP02",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP02",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP02",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP02",
+    "to": "CO-ODOO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-OP03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "MOD-OP03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "MOD-OP04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "MOD-OP03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-OKR",
+    "to": "MOD-OP03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-OP03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-OP03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-OP03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-OP03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-OP03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-5WHY",
+    "to": "MOD-OP03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-FISHBONE",
+    "to": "MOD-OP03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-OP03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "LAW-NĐ145-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "STD-SASB",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "CO-ODOO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "CO-DELOITTE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-OP04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "MOD-OP04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-OP03",
+    "to": "MOD-OP04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-OP02",
+    "to": "MOD-OP04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-OP04",
+    "to": "MOD-OP05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-OP04",
+    "to": "MOD-S02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-OP04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-OP04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-PMBOK",
+    "to": "MOD-OP04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-PRINCE2",
+    "to": "MOD-OP04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-OP04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCRUM",
+    "to": "MOD-OP04",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-OP04",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP04",
+    "to": "LAW-ĐT-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP04",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP04",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP04",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP04",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP04",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP04",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP04",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP04",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP04",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP04",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP04",
+    "to": "CO-ODOO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F05",
+    "to": "MOD-OP05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "MOD-OP05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "MOD-OP05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "MOD-OP05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "MOD-OP05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-B02",
+    "to": "MOD-OP05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-OP05",
+    "to": "FW-BABOK",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-OP05",
+    "to": "FW-MOSCOW",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-OP05",
+    "to": "FW-ADHOC-USE-CASES",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-OP05",
+    "to": "FW-ADHOC-UML",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-OP05",
+    "to": "FW-ADHOC-GAP-ANALYSIS",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-OP05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-BABOK",
+    "to": "MOD-OP05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-MOSCOW",
+    "to": "MOD-OP05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-PMBOK",
+    "to": "MOD-OP05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-OP05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-OP05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-5WHY",
+    "to": "MOD-OP05",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-OP05",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP05",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-OP05",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP05",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP05",
+    "to": "CO-ODOO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-LG01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "MOD-LG01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "MOD-LG01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "MOD-LG02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "MOD-LG03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "MOD-LG04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "MOD-MF06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "MOD-LG01",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "FW-SCOR",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "FW-ADHOC-TOTAL-LOGISTICS-COST",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "FW-4P",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "FW-INCOTERMS",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-LG01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-LG01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-4P",
+    "to": "MOD-LG01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-LG01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-LG01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "LAW-HQ-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "CO-GHN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "CO-GHTK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "MOD-LG02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "MOD-LG02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "MOD-LG02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "MOD-LG03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "MOD-LG04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "MOD-MF05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "MOD-MF06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "MOD-LG02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "FW-SCOR",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "FW-SOP",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "FW-ADHOC-IBP",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "FW-ADHOC-CPFR",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "FW-BULLWHIP",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-LG02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-LG02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SOP",
+    "to": "MOD-LG02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KANBAN",
+    "to": "MOD-LG02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-BULLWHIP",
+    "to": "MOD-LG02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-LG02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-LG02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "LAW-ĐTH-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "LAW-HQ-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "LAW-EVFTA",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "LAW-CPTPP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "LAW-RCEP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "CO-APPLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "MOD-LG03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-LG03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-AC03",
+    "to": "MOD-LG03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-FIN04",
+    "to": "MOD-LG03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC05",
+    "to": "MOD-LG03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LG03",
+    "to": "MOD-TAX03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LG03",
+    "to": "FW-INCOTERMS",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-LG03",
+    "to": "FW-ADHOC-UCP-600",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-LG03",
+    "to": "FW-ADHOC-WCO-HS",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-LG03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-LG03",
+    "to": "LAW-HQ-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG03",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG03",
+    "to": "LAW-EVFTA",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG03",
+    "to": "LAW-CPTPP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG03",
+    "to": "LAW-RCEP",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG03",
+    "to": "STD-VNACCS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG03",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG03",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG03",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG01",
+    "to": "MOD-LG04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "MOD-LG04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "MOD-LG04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "MOD-MF05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "MOD-MF06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "MOD-LG04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "FW-ABC-XYZ",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "FW-ADHOC-5S",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "FW-LEAN",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "FW-ADHOC-FEFO-FIFO",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "STD-ISO9001",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "LAW-GDPR",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-LG04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SIX-SIGMA",
+    "to": "MOD-LG04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-LG04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-STP",
+    "to": "MOD-LG04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-ABC-XYZ",
+    "to": "MOD-LG04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-LG04",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "LAW-HQ-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "CO-LAZADA-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "CO-GHN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "CO-GHTK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "MOD-MF01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-SC01",
+    "to": "MOD-MF01",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "MOD-MF02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "MOD-MF03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "MOD-MF04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "MOD-MF05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "MOD-MF06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-MF01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SIX-SIGMA",
+    "to": "MOD-MF01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SOP",
+    "to": "MOD-MF01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-MF01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "LAW-EVFTA",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "STD-ISO14001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "STD-ISO45001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "CO-ODOO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "MOD-MF02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MF02",
+    "to": "MOD-MF03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MF02",
+    "to": "MOD-MF04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MF02",
+    "to": "MOD-MF05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-MF02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-MF02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SOP",
+    "to": "MOD-MF02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KANBAN",
+    "to": "MOD-MF02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-MF02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-5WHY",
+    "to": "MOD-MF02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-FISHBONE",
+    "to": "MOD-MF02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-PDCA",
+    "to": "MOD-MF02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-MF02",
+    "to": "LAW-BLLĐ-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF02",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF02",
+    "to": "LAW-EVFTA",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF02",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF02",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF02",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF02",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "MOD-MF03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MF02",
+    "to": "MOD-MF03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MF03",
+    "to": "MOD-MF04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-MF03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SIX-SIGMA",
+    "to": "MOD-MF03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KANBAN",
+    "to": "MOD-MF03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-MF03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-MF03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-5WHY",
+    "to": "MOD-MF03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-FISHBONE",
+    "to": "MOD-MF03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-MF03",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF03",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF03",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF03",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF03",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF03",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "MOD-MF04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MF02",
+    "to": "MOD-MF04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MF04",
+    "to": "MOD-MF05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-MF04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SIX-SIGMA",
+    "to": "MOD-MF04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-MF04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SPIN",
+    "to": "MOD-MF04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-MF04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-5WHY",
+    "to": "MOD-MF04",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-MF04",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF04",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF04",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF04",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF04",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF04",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF04",
+    "to": "CO-LG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF04",
+    "to": "CO-APPLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF04",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF04",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF04",
+    "to": "CO-ODOO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF01",
+    "to": "MOD-MF05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-MF05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-LG04",
+    "to": "MOD-MF05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "MOD-MF06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "MOD-MF05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "MOD-MF05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "FW-EOQ",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "FW-ABC-XYZ",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "FW-ADHOC-SAFETY-STOCK",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "FW-ADHOC-MIN-MAX",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "FW-ADHOC-VMI",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "STD-VAS",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "STD-ISO9001",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-MF05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-MF05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KANBAN",
+    "to": "MOD-MF05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-EOQ",
+    "to": "MOD-MF05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-ABC-XYZ",
+    "to": "MOD-MF05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-MF05",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "LAW-TT200-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "LAW-TT48-2019",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "STD-GAAP-US",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF05",
+    "to": "MOD-MF06",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-LG02",
+    "to": "MOD-MF06",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-F01",
+    "to": "MOD-MF06",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-OP01",
+    "to": "MOD-MF06",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-LG03",
+    "to": "MOD-MF06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "MOD-MF06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-AC02",
+    "to": "MOD-MF06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-LAW03",
+    "to": "MOD-MF06",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "FW-KRALJIC",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "FW-ADHOC-STRATEGIC-SOURCING-7-STEP",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "FW-ADHOC-CATEGORY-MANAGEMENT",
+    "relation": "implements"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "FW-ADHOC-TCO",
+    "relation": "implements"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-MF06",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KRALJIC",
+    "to": "MOD-MF06",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-MF06",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "LAW-KT-2015",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "LAW-CT-2018",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "LAW-ĐTH-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-MF06",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "MOD-ERP02",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "MOD-ERP03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "MOD-ERP04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "MOD-ERP05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-ERP01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-ERP01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-ERP01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-ERP01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-PMBOK",
+    "to": "MOD-ERP01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-ERP01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCRUM",
+    "to": "MOD-ERP01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "LAW-KT-2015",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "LAW-TT200-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "STD-GAAP-US",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "STD-ITIL",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "CO-ODOO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "MOD-ERP02",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "MOD-ERP03",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "MOD-ERP04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-ERP02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-ERP02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-PMBOK",
+    "to": "MOD-ERP02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "LAW-TT200-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "STD-GAAP-US",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "CO-DELOITTE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "MOD-ERP03",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-ERP03",
+    "to": "MOD-ERP04",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-ERP03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-PMBOK",
+    "to": "MOD-ERP03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-ERP03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCRUM",
+    "to": "MOD-ERP03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-ERP03",
+    "to": "LAW-BHXH-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP03",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP03",
+    "to": "LAW-TT200-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP03",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP03",
+    "to": "LAW-THUETNCN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP03",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP03",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP03",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP03",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP03",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP03",
+    "to": "CO-ODOO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "MOD-ERP04",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-ERP04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-PMBOK",
+    "to": "MOD-ERP04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-ERP04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCRUM",
+    "to": "MOD-ERP04",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "LAW-BHXH-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "LAW-TT200-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "STD-IFRS15",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "STD-GAAP-US",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "CO-ODOO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP01",
+    "to": "MOD-ERP05",
+    "relation": "prerequisite_of"
+  },
+  {
+    "from": "MOD-ERP02",
+    "to": "MOD-ERP05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-ERP03",
+    "to": "MOD-ERP05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "MOD-ERP04",
+    "to": "MOD-ERP05",
+    "relation": "relates_to"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-ERP05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-ERP05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SOP",
+    "to": "MOD-ERP05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-ABC-XYZ",
+    "to": "MOD-ERP05",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "STD-VNACCS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "CO-LAZADA-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "CO-GHN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "CO-GHTK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-ERP05",
+    "to": "CO-ODOO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-CRM01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-CRM01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-CRM01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SPIN",
+    "to": "MOD-CRM01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-MEDDIC",
+    "to": "MOD-CRM01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-BANT",
+    "to": "MOD-CRM01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AIDA",
+    "to": "MOD-CRM01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-CDP",
+    "to": "MOD-CRM01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-CRM01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "STD-ISO9001",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM01",
+    "to": "CO-HUBSPOT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-CRM02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-CRM02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-CRM02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-CRM02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-CDP",
+    "to": "MOD-CRM02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-CRM02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "STD-SOC2",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "CO-MOMO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "CO-HUBSPOT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM02",
+    "to": "CO-DELOITTE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-CRM03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-CRM03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-CRM03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SPIN",
+    "to": "MOD-CRM03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-ABM",
+    "to": "MOD-CRM03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-CDP",
+    "to": "MOD-CRM03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-CRM03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-JTBD",
+    "to": "MOD-CRM03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-CRM03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-CRM03",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM03",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM03",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM03",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM03",
+    "to": "STD-SOC2",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM03",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM03",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM03",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM03",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM03",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM03",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM03",
+    "to": "CO-HUBSPOT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-CRM04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-CRM04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-CRM04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-CDP",
+    "to": "MOD-CRM04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-CRM04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-JTBD",
+    "to": "MOD-CRM04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-CRM04",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "STD-SOC2",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-MOMO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-TIKI",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-LAZADA-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-APPLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-CRM04",
+    "to": "CO-HUBSPOT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-DA01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-DA01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-DA01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-DA01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-DA01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "LAW-BHXH-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "STD-COBIT",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-LAZADA-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-HUBSPOT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-ODOO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA01",
+    "to": "CO-MCKINSEYCO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-DA02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-DA02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-DA02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "LAW-KT-2015",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "STD-COBIT",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "CO-MOMO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA02",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-DA03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-DA03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-DA03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-DA03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-5WHY",
+    "to": "MOD-DA03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "LAW-DN-2020",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "LAW-KT-2015",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "LAW-TT200-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "CO-GHN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "CO-GHTK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA03",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-DA04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-DA04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-DA04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-DA04",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "STD-COBIT",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "STD-ITIL",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "STD-GRI",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-MOMO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-TIKI",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-DA04",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-BCG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-AI01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-AI01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-AI01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-AGILE",
+    "to": "MOD-AI01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-AI01",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-AI01",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "LAW-BHXH-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "STD-COBIT",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "STD-ITIL",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-VINAMILK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-MOMO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-LAZADA-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-VPBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-HUBSPOT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-MCKINSEYCO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI01",
+    "to": "CO-DELOITTE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-BSC",
+    "to": "MOD-AI02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-AI02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-AI02",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-AI02",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-MASAN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-VINGROUP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-MOMO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-SHOPEE-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-TIKI",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-LAZADA-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-GRAB-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-GHN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-VPBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-SAMSUNG-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-MCKINSEYCO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI02",
+    "to": "CO-DELOITTE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-AI03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-KAIZEN",
+    "to": "MOD-AI03",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-AI03",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-AI03",
+    "to": "LAW-BHXH-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI03",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI03",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI03",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI03",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI03",
+    "to": "STD-ITIL",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI03",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI03",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI03",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI03",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI03",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI03",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI03",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI03",
+    "to": "CO-SALESFORCE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI03",
+    "to": "CO-MCKINSEYCO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "CO-BCG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-AI04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-AI04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-MCKINSEY-PS",
+    "to": "MOD-AI04",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-AI04",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "LAW-SHTT-2022",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "LAW-THUETNDN",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "LAW-GDPR",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "STD-SOC2",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "CO-GHN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "CO-TECHCOMBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "CO-VPBANK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "CO-MCKINSEYCO",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI04",
+    "to": "CO-DELOITTE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "FW-LEAN",
+    "to": "MOD-AI05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-SCOR",
+    "to": "MOD-AI05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-INCOTERMS",
+    "to": "MOD-AI05",
+    "relation": "used_in"
+  },
+  {
+    "from": "FW-NPS",
+    "to": "MOD-AI05",
+    "relation": "used_in"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "LAW-NĐ13-2023",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "LAW-TT200-2014",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "STD-VAS",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "STD-SOC2",
+    "relation": "regulated_by"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "CO-FPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "CO-VIETTEL",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "CO-VNPT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "CO-VNG",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "CO-BE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "CO-GHN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "CO-GHTK",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "CO-INTEL-VN",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "CO-GOOGLE",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "CO-AMAZON",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "CO-MICROSOFT",
+    "relation": "exemplified_by"
+  },
+  {
+    "from": "MOD-AI05",
+    "to": "CO-SAP",
+    "relation": "exemplified_by"
+  }
+]
